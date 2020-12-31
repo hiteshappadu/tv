@@ -31,7 +31,7 @@ https://live.creacast.com/d5tv/d5tv.smil/chunklist_w1087765925_b1928000.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.m3u8
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/zeetvhd.png",IN: Zee TV HD
-https://z5ams.akamaized.net/zeetvhd/tracks-v1a1/hdntl=exp=1609095331~acl=%2f*~data=hdntl~hmac=da3e24a1350c025c7c9d9b4475f0d8209d21141dc5fea0fddf3a053b2935b93a/mono.m3u8
+http://208.115.215.42/ZEE_TV_HD_02/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png",IN: Zee TV HD
 https://tivimateplaylists.live/ztv50fps
@@ -43,7 +43,7 @@ http://z5ams.akamaized.net/zeetvsduk/index.m3u8
 http://
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2019/01/zqVuV1547654662.jpg",IN: Zee TV USA
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/ztvsdusa/index.m3u8
+http://z5amshls.akamaized.net/ztvsdusa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2019/01/gosp51547655236.jpg",IN: Zee TV HD USA
 http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
@@ -58,13 +58,13 @@ http://z5amshls.akamaized.net/apacsea/tracks-v1a1/playlist.m3u8
 http://
 
 #EXTINF:-1,IN: Zee TV Russia
-http://
+http://z5amshls.akamaized.net/russia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2019/01/zeetvacanada.png",IN: Zee TV Canada
 http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png",IN: Zee Cinema
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.m3u8
+http://208.115.215.42/ZEE_Cinema_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/zeecinemahd.png",IN: Zee Cinema HD
 http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
@@ -100,13 +100,13 @@ http://z5amshls.akamaized.net/zing/tracks-v1a1/index.m3u8
 https://z5ams.akamaized.net/zingusa/tracks-v1a1/hdntl=exp=1609096350~acl=%2f*~data=hdntl~hmac=3df7b72472a43f668e492966fbe262e62e50fed7de17129ada1d018b49911798/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/zee-anmol-in.png",IN: Zee Anmol
-https://z5ams.akamaized.net/zeeanmol/tracks-v1a1/hdntl=exp=1609096261~acl=%2f*~data=hdntl~hmac=349c94a7f26054028f7e7ea511c917a8100e57afb7df5d3368b315e1bb45e132/mono.m3u8
+http://208.115.215.42/ZEE_Anmol_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQS_d-hP3_s-6LytrD3RMdXY8z55icDuzzz3Ov14Kjha88Ee-FY&usqp=CAU",IN: Zee Anmol Cinema
 https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2019/11/zee-classic-in.png",IN: Zee Classic
-https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/hdntl=exp=1609096432~acl=%2f*~data=hdntl~hmac=6cc7b555152f71cfad3d6827e39a19b78667c5f0777a7704ceb5d415994c8f69/index_5.m3u8
+http://208.115.215.42/ZEE_Classic_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/zee-bollywood1-in.png",IN: Zee Bollywood
 http://z5amshls.akamaized.net/classic/tracks-v1a1/playlist.m3u8
@@ -118,7 +118,7 @@ http://z5amshls.akamaized.net/etc/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/zeebusiness/tracks-v1a1/index.m3u8
  
 #EXTINF:-1,IN: Zee News
-https://load.airtel.tv/zeenews/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+http://208.115.215.42/ZEE_News_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/zee-telugu-in.png",IN: Zee Telugu
 https://z5ams.akamaized.net/out/v1/95ba4533288e40a997c2b378f6b5c3b9/hdntl=exp=1609095612~acl=%2f*~data=hdntl~hmac=f87734bd5d3383031fa9529bbf8a8d2fd1b260e05f5d207155223dcb123df41f/index_5.m3u8
@@ -139,7 +139,7 @@ https://z5ams.akamaized.net/out/v1/d6f47c41936a41ac958254ab9cfc2d2f/hdntl=exp=16
 http://
  
 #EXTINF:-1,IN: Zee Tamil USA
-https://z5ams.akamaized.net/zkannadahd/index.m3u8?hdnts=st=1600806192~exp=1600809192~acl=/*~hmac=a6c06888106b7cb343741bffab9e5c569ca21f8dcfe2000c8d715f5471246dae
+http://z5amshls.akamaized.net/zkannadahd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1,IN: Zee Thirai
 https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8?hdnts=st=1600805147~exp=1600808147~acl=/*~hmac=a90c2eb53b1d703ef8b3cb8303dcc5423a641bc41fbc08644133abfcfa1a3017
@@ -157,8 +157,8 @@ https://z5ams.akamaized.net/zmarathisd/index.m3u8?hdnts=st=1600805573~exp=160080
 https://z5ams.akamaized.net/out/v1/30bfd698af924d4abce147906278419c/index.m3u8?hdnts=st=1600805573~exp=1600808573~acl=/*~hmac=dfa6c839793c4d59d5d0dc784245796be29b539851c3bdf903f6d897eb330856
  
 #EXTINF:-1,IN: Zee Marathi USA
-https://z5ams.akamaized.net/marathiusa/index.m3u8?hdnts=st=1600805573~exp=1600808573~acl=/*~hmac=dfa6c839793c4d59d5d0dc784245796be29b539851c3bdf903f6d897eb330856
- 
+http://z5amshls.akamaized.net/marathiusa/playlist.m3u8
+
 #EXTINF:-1,IN: Zee Yuva
 https://z5ams.akamaized.net/out/v1/8cb6a17f49784fda88939f24b083af45/index.m3u8?hdnts=st=1600805908~exp=1600808908~acl=/*~hmac=43e796630809ad6b493dc474f415b7eae30f8e51440f81af1838d239c20bb045
  
@@ -206,9 +206,6 @@ https://z5ams.akamaized.net/hindustan/index.m3u8?hdnts=st=1600808422~exp=1600811
  
 #EXTINF:-1,IN: Zee Rajasthan
 http://z5amshls.akamaized.net/zinguk/tracks-v1a1/index.m3u8
- 
-#EXTINF:-1,IN: Zee Rajasthan
-https://load.airtel.tv/zeerajasthan/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 
 #EXTINF:-1,IN: Zee Madhya Pradesh
 http://
@@ -271,7 +268,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219713
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/and_tv_in.png",IN: &TV
-https://z5ams.akamaized.net/andtvsd/tracks-v1a1/hdntl=exp=1609094930~acl=%2f*~data=hdntl~hmac=6685dba55134f28d0a89ba2b1c99c9816b2a3188b37cc8daaca03bc4d6a86288/mono.m3u8
+https://liveanevia.mncnow.id/live/eds/AndTV/sa_dash_vmx/AndTV.mpd
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/TVHD.png",IN: &TV HD
 https://z5ams.akamaized.net/out/v1/81b68c3858bf4481ad93679fd4253cf6/hdntl=exp=1609095076~acl=%2f*~data=hdntl~hmac=0a72232d3df46aadcf5c293bc3850a2403a66881cc4868729fbd39ead1392878/index_24.m3u8
@@ -319,7 +316,7 @@ https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/1
 http://182.176.93.225:8000/play/a00a
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2020/06/STARPLUSUK.png",IN: Star Plus UK
-http://portal.unblkservice1.xyz:8080/hollie/hollie/27648
+http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo=" ",IN: Star Plus HD UK
 https://dx3.gcdn.co/hindi-STARPLUSHDUK/tracks-v1a1/mono.m3u8
@@ -409,7 +406,7 @@ http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/2837
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/2837
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarJalsha.in.png",IN: Star Jalsha
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/5916
+http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8
 
 #EXTINF:-1,IN: Star Jalsha HD
 http://ccntv.anytv.live:8080/star-jalsha/tracks-v1a1/mono.m3u8
@@ -433,7 +430,7 @@ http://
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/4754
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/224_300.png",IN: Star Vijay
-http://uk4.zecast.com:1935/star-live/vijayhd1/playlist.m3u8
+http://208.115.215.42/Star_Vijay_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,IN: Star Vijay HD
 http://199.66.92.35:8080/STARViJAY4KPREMIUM/playlist.m3u8?token=test
@@ -445,7 +442,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.m3u8
 https://mhdtvworld.live/stream/aapka-colors-hd/
  
 #EXTINF:-1,IN: Aapka Colors
-http://f.ok2.se:8000/donna1/donna123/410
+http://
  
 #EXTINF:-1,IN: Colors APAC
 http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
@@ -478,7 +475,7 @@ http://
 http://
  
 #EXTINF:-1,IN: Colors Bangla HD
-http://
+http://163.172.29.246:8081/globalbd/colorsbangla/chunks.m3u8
  
 #EXTINF:-1,IN: Colors Tamil
 http://mhdtvworld.live/stream/colors-tamil/
@@ -499,7 +496,7 @@ http://
 http://mhdtvworld.live/stream/colors-super/
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/colors-rishtey-in.png",IN: Colors Rishtey
-https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/indialpc@!2/rishteyindia/chunks.m3u8?nimblesessionid=23418385&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMCA3OjMyOjU5IFBNJmhhc2hfdmFsdWU9S0lEeDRObkxLUmVZbGp3MDYvZXJYdz09JnZhbGlkbWludXRlcz0y
+http://208.115.215.42/Colors_Rishtey/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2019/07/colorsrishteyasia.png",IN: Colors Rishtey Asia
 https://mhdtvworld.live/stream/colors-rishtey-asia/
@@ -517,13 +514,13 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/indialpc@!2/sonytvhd/chunks.m3u8?nimblesessionid=23419286&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMCA3OjQxOjI2IFBNJmhhc2hfdmFsdWU9VnlyaHBGbmVycnhraURyb2VvSlprZz09JnZhbGlkbWludXRlcz0y
  
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9088-k6aiezio-v5/imageContent-9088-k6aiezio-m8.png",IN: SONY SET HD India
-https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/indialpc@!2/sonytvhd/chunks.m3u8?nimblesessionid=23419174&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMCA3OjQwOjI0IFBNJmhhc2hfdmFsdWU9MU5EUnJTeUh6cndnYjZvRkpGangwdz09JnZhbGlkbWludXRlcz0y
+http://77.166.114.98/scriptstar/mp.php/http://208.115.215.42/Sony_TV_HD_01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/Sony_TV-1.png",IN: SONY SET UK
 https://mhdtvworld.live/stream/sony-tv/
 
 #EXTINF:-1,IN: SONY SET HD UK
-http://
+http://208.115.215.42/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,IN: SONY SET USA
 http://
@@ -535,8 +532,8 @@ http://199.66.92.35:8080/sw_HINDI_SONY_HD_us/tracks-v1a1/mono.m3u8?token=test
 http://199.66.92.35:8080/sw_Sony_Canada/tracks-v1a1/mono.m3u8?token=test
  
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png",IN: SONY SAB
-https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/indialpc@!2/sonysabtv/chunks.m3u8?nimblesessionid=23419419&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMCA3OjQyOjU2IFBNJmhhc2hfdmFsdWU9SlNTeTBUY092MFJEcjZxcEEwY0szZz09JnZhbGlkbWludXRlcz0y
- 
+http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,IN: SONY SAB HD
 https://botallen.live/j/Sony_SAB_HD/master.m3u8?signature=f3e5d27874a60eeff6826ce75225dcfcb269eab1&unique=06cc16bfbcc597ae38a45dbecc62a270
  
@@ -550,7 +547,7 @@ https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/i
 https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist_b364000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png",IN: SONY MAX HD
-http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
+http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,IN: SONY MAX UK
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/16036
@@ -558,14 +555,14 @@ http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/16036
 #EXTINF:-1,IN: SONY MAX HD UK
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/5984
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg",IN: SONY MAX2
-http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/83704
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg",IN: SONY MAX 2
+http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2016/06/SONY-WAH-LOGO.jpg",IN: Sony Wah
 https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gigcgc2.png",IN: SONY AATH
-http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
+http://master.beeiptv.com:8081/LAW/sonyaath/playlist.m3u8
  
 #EXTINF:-1,IN: SONY YAY
 http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/83698
@@ -639,7 +636,7 @@ https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/i
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/B4U_MOVIES.png",IN: B4U Movies
 https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/indialpc@!2/b4umovies/chunks.m3u8?nimblesessionid=23420833&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMCA3OjU5OjE3IFBNJmhhc2hfdmFsdWU9STlCenorRlpYNFJwalZhZGdRZWFUQT09JnZhbGlkbWludXRlcz0y
 
-#EXTINF:-1,IN: B4U Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5DxAU8.png",IN: B4U Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 
 #EXTINF:-1,IN: B4U Aflam
@@ -648,14 +645,29 @@ http://
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2019/07/b4u-kadak-in.png",IN: B4U Kadak
 https://itvorigin.multitvsolution.com/idvo/moviehouse_540p/index.m3u8
 
-#EXTINF:-1,IN: Shemaroo ME
+#EXTINF:-1 tvg-logo="https://shopping.shemaroo.com/India/images/logo.png",IN: Shemaroo Bollywood Premiere
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+
+#EXTINF:-1 tvg-logo="https://shopping.shemaroo.com/India/images/logo.png",IN: Shemaroo Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1280x720_cf.m3u8
 
-#EXTINF:-1,IN: Shemaroo Kids ME
+#EXTINF:-1,IN: Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
 
-#EXTINF:-1,IN: DD National
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExkhL2U.png",IN: DD National
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TSvkIfA.png",IN: DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZ7lXO7.png",IN: DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e1rlU4J.png",IN: DD Malayalam
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+
+#EXTINF:-1,IN: Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:-1,IN: FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
@@ -776,6 +788,9 @@ https://yuppmslukmo1.akamaized.net/hls/live/2009221/godtv/godtv/godtv_1800/chunk
 
 #EXTINF:-1,IN: Harvest USA
 https://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1,ASIA: Hit Music
+http://hitmusic.hu/hitmusic.m3u8
  
 #EXTINF:-1,ASIA: BOLLYWOOD TV
 http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
@@ -860,6 +875,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/34.m3u8
 
 #EXTINF:-1,PK: Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+
+#EXTINF:-1,ME: Dubai One
+https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV1.uk.png",UK: ITV 1
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8

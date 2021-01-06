@@ -226,10 +226,10 @@ http://z5amshls.akamaized.net/punjabi/tracks-v1a1/playlist.m3u8
 https://z5ams.akamaized.net/zeesalaam/index.m3u8?hdnts=st=1600805908~exp=1600808908~acl=/*~hmac=43e796630809ad6b493dc474f415b7eae30f8e51440f81af1838d239c20bb045
 
 #EXTINF:-1,IN: Zee Alwan
-https://z5ams.akamaized.net/zeealwan/index.m3u8?hdnts=st=1600805908~exp=1600808908~acl=/*~hmac=43e796630809ad6b493dc474f415b7eae30f8e51440f81af1838d239c20bb045
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/383
 
 #EXTINF:-1,IN: Zee Aflam
-http://ds-tv.co:8080/3333711936844748/160718090519/44375
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/384
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2019/10/hF1UdC33.jpg",IN: Zee Theatre
 https://z5ams.akamaized.net/out/v1/9b9f434518cc489f9260e24b5768ef55/hdntl=exp=1609094863~acl=%2f*~data=hdntl~hmac=905a97dda5b2ed2499ff7289c448dac78e6068c966a985cf613a05bdd34794c4/index_17.m3u8
@@ -265,7 +265,7 @@ http://
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,IN: Zee One
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219713
+http://tvog.eu:8080/ibrahim/08.03.2020/136586
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/and_tv_in.png",IN: &TV
 https://liveanevia.mncnow.id/live/eds/AndTV/sa_dash_vmx/AndTV.mpd
@@ -478,7 +478,7 @@ http://
 http://163.172.29.246:8081/globalbd/colorsbangla/chunks.m3u8
  
 #EXTINF:-1,IN: Colors Tamil
-http://mhdtvworld.live/stream/colors-tamil/
+http://uk1.zecast.com:1935/star-live/colours/chunklist_w468669111.m3u8
  
 #EXTINF:-1,IN: Colors Tamil HD
 http://
@@ -676,7 +676,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playli
 https://tivimateplaylists.live/cn50fps
  
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",IN: Disney Channel
-https://tivimateplaylists.live/dc50fps
+http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",IN: Disney Channel
 http://182.176.93.225:8000/play/a01m
@@ -701,6 +701,27 @@ https://tivimateplaylists.live/nikjr50fps
   
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",IN: Pogo
 https://tivimateplaylists.live/pog50fps
+
+#EXTINF:-1,IN: Animal Planet HD (Hindi)
+https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+
+#EXTINF:-1,IN: Discovery (Hindi)
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+
+#EXTINF:-1,IN: Discovery Science (Hindi)
+https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+
+#EXTINF:-1,IN: Discovery Turbo (English)
+https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
+
+#EXTINF:-1,IN: Discovery Kids (Hindi)
+https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
+
+#EXTINF:-1,IN: Discovery Kids (Tamil)
+https://streamitv.multitvsolution.in/idvo/discoverykidseng_540p/index.m3u8
+
+#EXTINF:-1,IN: TLC HD (Hindi)
+https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
 
 #EXTINF:-1,IN: ETV
 http://
@@ -820,7 +841,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.foxmoviesasia.com/images/fm.png",ASIA: FOX Movies
-https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png",ASIA: FOX Family Movies
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8

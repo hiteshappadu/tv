@@ -2092,11 +2092,11 @@ https://tf1-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 #EXTINF:-1,FR: TMC +1
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/89988
  
-#EXTINF:-1,FR: Paris Premiere
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/1457
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQGtNzk.png",FR: Paris Premiere
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Parispremiere_live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/fr/M6.fr.png",FR: M6
-http://178.132.3.162:88/M6/index.m3u8?token=test
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
  
 #EXTINF:-1,FR: M6 Music
 http://ds-tv.co:8080/3333711936844748/160718090519/26516
@@ -2105,67 +2105,79 @@ http://ds-tv.co:8080/3333711936844748/160718090519/26516
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80180
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/W9.fr.png",FR: W9
-http://178.132.3.162:88/W9/index.m3u8?token=test
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/index.m3u8
 
-#EXTINF:-1,FR: 6ter
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1333
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3PjeT6M.jpg",FR: 6ter
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
  
 #EXTINF:-1,FR: E!
 http://ds-tv.co:8080/3333711936844748/160718090519/26520
 
 #EXTINF:-1,FR: C8
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/9458
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/direct8live-76289/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/NRJ12_logo.png",FR: NRJ 12
-http://178.132.3.162:88/NRJ_12/video.m3u8?token=test
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8
 
-#EXTINF:-1,FR: NRJ Hits
-https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://static.epg.best/fr/RMCStory.fr.png",FR: RMC STORY
-http://
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qp2eWJW.png,FR: NRJ Hits
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ky4Yyx.png",FR: RMC
+https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/fr/RMCStory.fr.png",FR: RMC Story
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/numero23-850465/hls/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.epg.best/fr/RMCdecouverte.fr.png",FR: RMC Découverte
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/1384
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8
 
-#EXTINF:-1,FR: RMC Sport 1
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/1170
-
-#EXTINF:-1,FR: RMC Sport 2
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/1169
-
-#EXTINF:-1,FR: RMC Sport 3
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/1168
-
-#EXTINF:-1,FR: CSTAR
-http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,FR: CHERIE 25
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cnTi1XC.png",FR: RMC Sport 1
 http://
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaEOqnG.png",FR: RMC Sport 2
+http://
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WyARwhd.png",FR: RMC Sport 3
+http://
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eIVSQdX.png",FR: RMC Sport 4
+http://
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IbLIEno.png",FR: RMC Sport 5
+http://
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fLTTUm.jpg",FR: CStar
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/d17-451622/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dQWQmGL.png",FR: Cherie 25
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/cherie25-850448/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FfAtzpw.png",FR: Comedy Central
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/tech_comedycentral_ott_mobile-14552503/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/France2.fr.png",FR: France 2
-http://178.132.3.162:88/france2/index.m3u8?token=test
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/France3.fr.png",FR: France 3
-http://178.132.3.162:88/france3/index.m3u8?token=test
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france3live-12472/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/France4.fr.png",FR: France 4
-http://178.132.3.162:88/france4/index.m3u8?token=test
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france4live-43225/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/France5.fr.png",FR: France 5
-http://178.132.3.162:88/france5/index.m3u8?token=test
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france5live-12474/hls/index.m3u8
 
-#EXTINF:-1,FR: France Ô
-http://
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQR2nGg.jpg",FR: France Ô
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/franceolive-103183/hls/index.m3u8
  
-#EXTINF:-1,FR: France 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vcbzpgt/France24.png",FR: France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
  
-#EXTINF:-1,FR: France Info
-https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png",FR: France Info
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/franceinfo-14390660/hls/index.m3u8
  
-#EXTINF:-1,FR: Arte
-https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zthzjPs.png",FR: Arte
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/artelive-18512/hls/index.m3u8
 
 #EXTINF:-1,FR: RTS Un
 http://
@@ -2212,8 +2224,8 @@ https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
 #EXTINF:-1,FR: A+
 http://prosatbox.com:7474/momoFBpub/ZBxuNt3wMk/25609
 
-#EXTINF:-1,FR: CANAL+
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/1471
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1024px-Canal%2B.svg.png",FR: CANAL+
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/tech_canalplus_ott_mobile-655617/hls/index.m3u8
 
 #EXTINF:-1,FR: CANAL+ Décalé
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/1469
@@ -2275,32 +2287,32 @@ http://
 #EXTINF:-1,FR: TCM Cinéma
 http://
 
-#EXTINF:-1,FR: Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YlWKCG5.png",FR: Action
 http://mains.vip:2086/craigg/1Lurn7m3F1/92170
 
-#EXTINF:-1,FR: RTL9
-http://
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9hcKyc.png",FR: RTL9
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/index.m3u8
 
-#EXTINF:-1,FR: AB1
-http://
+#EXTINF:-1 tvg-logo="https://i.imgur.com/alYq7vX.png",FR: AB1
+http:///cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/AB1_live/index.m3u8
 
 #EXTINF:-1,FR: AB3
 http://
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/fr/Teva.fr.png",FR: Téva
-http://178.132.3.162:88/Teva/index.m3u8?token=test
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/teva-37149/hls/index.m3u8
 
 #EXTINF:-1,FR: SYFY
 http://
 
-#EXTINF:-1,FR: 13EME RUE
+#EXTINF:-1,FR: 13ème Rue
 http://hbox.cdnss.me:80/xblack/skypertyui/4431
 
 #EXTINF:-1,FR: SerieClub
 http://
 
-#EXTINF:-1,FR: TV Breizh
-http://1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YEsgkd6.png",FR: TV Breizh
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/tvbreizh-27323/hls/04.m3u8
 
 #EXTINF:-1,FR: Comédie +
 http://
@@ -2324,8 +2336,11 @@ http://
 http://hls.tmacaraibes.com/live/index.m3u8
 
 #EXTINF:-1,FR: BET
-http://
- 
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/bet-14514649/hls/index.m3u8
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nOzZS8a.png",FR: Ushuaia TV
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Ushuaia_live/01.m3u8
+
 #EXTINF:-1,FR: National Geographic
 http://mains.vip:2086/craigg/1Lurn7m3F1/92172
  
@@ -2341,8 +2356,8 @@ http://
 #EXTINF:-1,FR: Discovery Family
 http://
  
-#EXTINF:-1,FR: Animaux
-http://mains.vip:2086/craigg/1Lurn7m3F1/92174
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VIMEnFM.png",FR: Animaux
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/04.m3u8
  
 #EXTINF:-1 tvg-logo="http://presse.tv5monde.com/wp-content/uploads/2016/05/427259.png",FR: Tivi5monde
 https://tivi5hls-i.akamaihd.net/hls/live/678303/tivi5hls/tivi5mafrhls_1_1.m3u8
@@ -2363,7 +2378,7 @@ http://mains.vip:2086/craigg/1Lurn7m3F1/92247
 http://mains.vip:2086/craigg/1Lurn7m3F1/92248
 
 #EXTINF:-1,FR: Boomerang
-http://
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8
 
 #EXTINF:-1,FR: Cartoon Network
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8?token=soheliptv01826655778
@@ -2380,8 +2395,8 @@ http://mains.vip:2086/craigg/1Lurn7m3F1/92252
 #EXTINF:-1,FR: Nick 4 Teen
 http://
 
-#EXTINF:-1,FR: Game One
-http://
+#EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2019/07/GameOne2006-800x450-c-default.png",FR: Game One
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/GameOne_live/index.m3u8
 
 #EXTINF:-1,FR: Game One +1
 http://
@@ -2393,7 +2408,7 @@ http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/Boing.es.png",FR: Boing
-http://178.132.3.162:88/boing/index.m3u8?token=test
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8
  
 #EXTINF:-1,FR: Toonami
 http://
@@ -2401,8 +2416,8 @@ http://
 #EXTINF:-1,FR: J-One
 http://
 
-#EXTINF:-1,FR: Mangas
-http://
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKNeIxQ.png",FR: Mangas
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/Mangas_live/04.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.gongnetworks.com/images/logo.jpg",FR: Gong
 http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
@@ -2414,7 +2429,7 @@ http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 http://178.132.3.162:88/CanalJ/video.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/fr/Gulli.fr.png",FR: Gulli
-http://178.132.3.162:88/Gulli/index.m3u8?token=test
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 
 #EXTINF:-1,FR: Tiji
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/1419
@@ -2422,8 +2437,8 @@ http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/1419
 #EXTINF:-1,FR: Piwi+
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/1418
  
-#EXTINF:-1,FR: MCM
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/1395
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zPRTLzm.png",FR: MCM
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/mcm_live/index.m3u8
  
 #EXTINF:-1,FR: MCM Pop
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/2730
@@ -2479,8 +2494,11 @@ http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80171
 #EXTINF:-1,FR: TRACE NAIJA
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80172
 
-#EXTINF:-1,FR: DBM
+#EXTINF:-1 tvg-logo="https://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png",FR: DBM
 https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JaFW5sK.png",FR: BBlack! Africa
+http://connectiktv.ddns.me:8080/bblack/index.m3u8
 
 #EXTINF:-1,FR: VH1 CLASSIC
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80176
@@ -2491,7 +2509,7 @@ http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80175
 #EXTINF:-1,FR: CLIQUE TV
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80168
  
-#EXTINF:-1,FR: FASHION TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png",FR: Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CCvzqLJ.png",FR: Dieu TV

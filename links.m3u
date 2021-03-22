@@ -27,11 +27,17 @@ http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
 #EXTINF:-1 tvg-logo=" ",RE: D5tv
 https://live.creacast.com/d5tv/d5tv.smil/chunklist_w1087765925_b1928000.m3u8
 
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png",Yu-Gi-Oh
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1,AR: Telefe Rosario
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvapac/list/170x120/androidapphover_2.png",IN: Zee TV
 http://
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/zeetvhd.png",IN: Zee TV HD
-http://182.176.93.225:8000/play/a055/index.m3u8
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799322
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2019/01/agoYb1547654508.jpg",IN: Zee TV UK
 https://y5w8j4a9.ssl.hwcdn.net/zeetvsduk/index.m3u8
@@ -61,7 +67,7 @@ https://y5w8j4a9.ssl.hwcdn.net/russia/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/canadahd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png",IN: Zee Cinema
-http://182.176.93.225:8000/play/a02l/index.m3u8
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799325
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/zeecinemahd.png",IN: Zee Cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/playlist.m3u8
@@ -122,13 +128,13 @@ https://zmcl-live.akamaized.net/zeenewsclean_mbr/index.m3u8?hdnts=st=1607509766~
 https://
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/zeetel.png",IN: Zee Telugu HD
-https://y5w8j4a9.ssl.hwcdn.net/zeeteleguhd/tracks-v1a1/index.m3u8
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799694
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/zee-cinemalu-in.png",IN: Zee Cinemalu
 https://y5w8j4a9.ssl.hwcdn.net/zcinemalusd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1,IN: Zee Cinemalu HD
-https://y5w8j4a9.ssl.hwcdn.net/zcinemaluhd/tracks-v1a1/playlist.m3u8
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799695
  
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/zee-tamizh-in.png",IN: Zee Tamil
 https://
@@ -272,7 +278,7 @@ http://tvog.eu:8080/ibrahim/08.03.2020/136586
 http://182.176.93.225:8000/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/TVHD.png",IN: &TV HD
-https://z5ams.akamaized.net/out/v1/81b68c3858bf4481ad93679fd4253cf6/hdntl=exp=1609095076~acl=%2f*~data=hdntl~hmac=0a72232d3df46aadcf5c293bc3850a2403a66881cc4868729fbd39ead1392878/index_24.m3u8
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799320
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2019/09/ANDTVHDUSA.jpg",IN: &TV USA HD
 https://y5w8j4a9.ssl.hwcdn.net/andtvhdusa/tracks-v1a1/index.m3u8
@@ -305,7 +311,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivesd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2019/11/and-xplor-in.png",IN: &Xplor HD
-https://
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799661
 
 #EXTINF:-1,IN: Zee5 Kids
 https://
@@ -314,7 +320,7 @@ https://
 http://182.176.158.125:8000/play/a054/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/star_plus_hk_india_hd.png",IN: Star Plus HD
-http://182.176.93.225:8000/play/a00a
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799317
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2020/06/STARPLUSUK.png",IN: Star Plus UK
 http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
@@ -338,7 +344,7 @@ http://198.255.87.59:8080/INDIA_HINDI/STAR_UTSAV_MOVIES/playlist.m3u8?token=test
 https://ritesh.ch/miniproxy/miniproxy.php/http://163.172.223.102:8081/1212@!liveInx1/stargold/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDIwIDk6Mzc6MjkgUE0maGFzaF92YWx1ZT1sUldlL2x2QzVoWnF1T2tpRFdRVUtnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/stargoldHD.png",IN: Star Gold HD
-http://182.176.93.225:8000/play/a02m/index.m3u8
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799326
 
 #EXTINF:-1,IN: Star Gold UK
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/5981
@@ -359,7 +365,7 @@ http://182.176.93.225:8000/play/a03z/index.m3u8
 https://mhdtvworld.live/stream/star-bharat-hd/
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/starbharathd.png",IN: Star Bharat HD
-http://182.176.93.225:8000/play/a03y/index.m3u8
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799318
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2019/05/STARBHARATUK.png",IN: Star Bharat UK
 http://ds-tv.co:8080/3333711936844748/160718090519/93798
@@ -374,7 +380,7 @@ http://
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_World_HD.png",IN: Star World HD
-http://182.176.93.225:8000/play/a013/index.m3u8
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799336
  
 #EXTINF:-1,IN: Star World ME
 http://
@@ -382,14 +388,14 @@ http://
 #EXTINF:-1,IN: Star World HD ME
 http://182.176.93.225:8000/play/a013
 
-#EXTINF:-1,IN: Star World Premiere HD
-http://182.176.93.225:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/SWP_HD.jpg",IN: Star World Premiere HD
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799337
 
-#EXTINF:-1,IN: Star Movies HD
-http://182.176.93.225:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Star_Movies_HD_India.png",IN: Star Movies HD
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799335
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",IN: Star Movies Select HD
-http://182.176.93.225:8000/play/a00y/index.m3u8
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799681
 
 #EXTINF:-1,IN: Star Chinese Movies
 http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
@@ -398,10 +404,10 @@ http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
 https://mhdtvworld.live/stream/star-maa/
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2019/05/star-maa1HD-in.png",IN: Star Maa HD
-http://199.66.92.35:8080/STARMAA4KPREMIUM/playlist.m3u8?token=test
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799691
 
-#EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2019/01/star-maa-movies-in.png",IN: Star Maa Movies
-https://mhdtvworld.live/stream/star-maa-movies/
+#EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2019/01/star-maa-movies-in.png",IN: Star Maa Movies HD
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799692
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2019/01/star-maa-gold-in.png",IN: Star Maa Gold
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/2837
@@ -413,13 +419,13 @@ http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/2837
 http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8
 
 #EXTINF:-1,IN: Star Jalsha HD
-http://ccntv.anytv.live:8080/star-jalsha/tracks-v1a1/mono.m3u8
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799671
  
 #EXTINF:-1,IN: Star Jalsha Movies
 https://
  
 #EXTINF:-1,IN: Star Jalsha Movies HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.m3u8
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799682
 
 #EXTINF:-1,IN: Star Suvarna
 http://
@@ -431,7 +437,7 @@ http://mhdtvworld.live/stream/star-suvarna/
 http://
  
 #EXTINF:-1,IN: Star Pravah HD
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/4754
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799735
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/224_300.png",IN: Star Vijay
 http://208.115.215.42/Star_Vijay_HD/tracks-v1a1/mono.m3u8
@@ -443,8 +449,8 @@ http://199.66.92.35:8080/STARViJAY4KPREMIUM/playlist.m3u8?token=test
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.m3u8
   
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/colorstvhd.png",IN: Colors HD
-http://182.176.93.225:8000/play/a00c/index.m3u8
- 
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799321
+
 #EXTINF:-1,IN: Aapka Colors
 http://
  
@@ -461,7 +467,7 @@ https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/i
 https://mhdtvworld.live/stream/rishtey-cineplex-jio/
 
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png",IN: Colors Cineplex HD
-https://botallen.live/j/Colors_Cineplex_HD/master.m3u8?signature=e82c6e8cc0e44df2dfc82d2b4dfcf9804410c505&unique=06cc16bfbcc597ae38a45dbecc62a270
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799329
  
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2020/08/colors-cineplex-in.png",IN: Colors Cineplex UK
 https://mhdtvworld.live/stream/colors-cineplex/
@@ -470,10 +476,13 @@ https://mhdtvworld.live/stream/colors-cineplex/
 http://182.176.93.225:8000/play/a02q
  
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/colorsinfhd.png",IN: Colors Infinity HD
-http://182.176.158.125:8000/play/a06g/index.m3u8
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799341
 
 #EXTINF:-1,IN: Colors Gujrati
 http://
+
+#EXTINF:-1,IN: Colors Marathi HD
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799734
  
 #EXTINF:-1,IN: Colors Bangla
 http://
@@ -485,7 +494,7 @@ http://163.172.29.246:8081/globalbd/colorsbangla/chunks.m3u8
 http://uk1.zecast.com:1935/star-live/colours/chunklist_w468669111.m3u8
  
 #EXTINF:-1,IN: Colors Tamil HD
-http://
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799382
 
 #EXTINF:-1,IN: Colors Kannada
 http://
@@ -518,7 +527,7 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/indialpc@!2/sonytvhd/chunks.m3u8?nimblesessionid=23419286&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMCA3OjQxOjI2IFBNJmhhc2hfdmFsdWU9VnlyaHBGbmVycnhraURyb2VvSlprZz09JnZhbGlkbWludXRlcz0y
  
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9088-k6aiezio-v5/imageContent-9088-k6aiezio-m8.png",IN: SONY SET HD India
-http://182.176.93.225:8000/play/a00e/index.m3u8
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799316
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/Sony_TV-1.png",IN: SONY SET UK
 https://mhdtvworld.live/stream/sony-tv/
@@ -539,8 +548,8 @@ http://199.66.92.35:8080/sw_Sony_Canada/tracks-v1a1/mono.m3u8?token=test
 http://182.176.93.225:8000/play/a056/index.m3u8
 
 #EXTINF:-1,IN: SONY SAB HD
-https://botallen.live/j/Sony_SAB_HD/master.m3u8?signature=f3e5d27874a60eeff6826ce75225dcfcb269eab1&unique=06cc16bfbcc597ae38a45dbecc62a270
- 
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799319
+
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/SONYSABUK.png",IN: SONY SAB UK
 https://mhdtvworld.live/stream/sony-sab-hd/
  
@@ -551,7 +560,7 @@ http://182.176.93.225:8000/play/a04d/index.m3u8
 https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist_b364000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png",IN: SONY MAX HD
-http://182.176.93.225:8000/play/a01a/index.m3u8
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799324
 
 #EXTINF:-1,IN: SONY MAX UK
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/16036
@@ -579,15 +588,21 @@ https://itvorigin.multitvsolution.com/idvo/dangal_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/movies_now.png",IN: Movies Now
 http://182.176.93.225:8000/play/a01x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png",IN: Movies Now HD
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799331
+
+#EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png",IN: MN+ HD
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799334
  
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/MNX.png",IN: MNX
 http://182.176.93.225:8000/play/a04a/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/mnxhd.png",IN: MNX HD
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799704
  
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/romedy_now_in.png",IN: Romedy Now
-http://182.176.93.225:8000/play/a01y/index.m3u8
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799727
  
 #EXTINF:-1,IN: MN+ HD
 http://182.176.93.225:8000/play/a00w/index.m3u8
@@ -734,7 +749,7 @@ http://182.176.93.225:8000/play/a049/index.m3u8
 http://
  
 #EXTINF:-1,IN: ETV HD
-http://mhdtvworld.live/stream/etv-telugu-hd/
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799690
  
 #EXTINF:-1,IN: ETV Andhra Pradesh
 http://mhdtvworld.live/stream/etv-andhra-pradesh/
@@ -773,7 +788,7 @@ http://mhdtvworld.live/stream/etv-abhiruchi-usa/
 https://load.airtel.tv/geminitv/smil:common.smil/index.m3u8
 
 #EXTINF:-1,IN: Gemini HD
-http://mhdtvworld.live/stream/gemini-hd/
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799693
 
 #EXTINF:-1,IN: Gemini US
 http://mhdtvworld.live/stream/gemini-tv-hd/
@@ -785,7 +800,7 @@ https://load.airtel.tv/geminitv/smil:common.smil/index.m3u8
 http://mhdtvworld.live/stream/gemini-movies/
  
 #EXTINF:-1,IN: Gemini Movies HD
-http://mhdtvworld.live/stream/gemini-movies-hd/
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799733
 
 #EXTINF:-1,IN: Gemini Life
 http://mhdtvworld.live/stream/gemini-life/
@@ -797,7 +812,7 @@ http://mhdtvworld.live/stream/gemini-comedy/
 http://mhdtvworld.live/stream/gemini-music/
 
 #EXTINF:-1,IN: Gemini Music HD
-http://mhdtvworld.live/stream/gemini-music-hd/
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799732
 
 #EXTINF:-1,IN: Gemini News
 http://mhdtvworld.live/stream/gemini-music-hd/

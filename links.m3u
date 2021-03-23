@@ -40,7 +40,7 @@ http://
 https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799322
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2019/01/agoYb1547654508.jpg",IN: Zee TV UK
-https://y5w8j4a9.ssl.hwcdn.net/zeetvsduk/index.m3u8
+http://starshare.live:8080/live/Alpha365/Sigma366/46.ts
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png",IN: Zee TV HD UK
 http://
@@ -103,7 +103,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zingusa/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/zee-anmol-in.png",IN: Zee Anmol
-http://
+http://starshare.live:8080/live/Alpha365/Sigma366/203.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQS_d-hP3_s-6LytrD3RMdXY8z55icDuzzz3Ov14Kjha88Ee-FY&usqp=CAU",IN: Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/tracks-v2a1/index.m3u8
@@ -155,7 +155,7 @@ http://mhdtvworld.live/stream/zee-keralam-sd/
 https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1,IN: Zee Marathi
-https://y5w8j4a9.ssl.hwcdn.net/zmarathisd/index.m3u8
+http://starshare.live:8080/live/Alpha365/Sigma366/4066.ts
  
 #EXTINF:-1,IN: Zee Marathi HD
 https://
@@ -227,7 +227,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zeepunjabi/tracks-v1a1/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/punjabi/tracks-v1a1/playlist.m3u8
  
 #EXTINF:-1,IN: Zee Salaam
-https://z5ams.akamaized.net/zeesalaam/index.m3u8?hdnts=st=1600805908~exp=1600808908~acl=/*~hmac=43e796630809ad6b493dc474f415b7eae30f8e51440f81af1838d239c20bb045
+http://starshare.live:8080/live/Alpha365/Sigma366/4065.ts
 
 #EXTINF:-1,IN: Zee Alwan
 http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/383
@@ -242,6 +242,7 @@ https://z5ams.akamaized.net/out/v1/9b9f434518cc489f9260e24b5768ef55/hdntl=exp=16
 https://y5w8j4a9.ssl.hwcdn.net/magic/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/zee-world-in.png",IN: Zee World
+http://starshare.live:8080/live/Alpha365/Sigma366/4813.ts
 https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1,IN: Zee Mundo
@@ -286,8 +287,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andtvhdusa/tracks-v1a1/index.m3u8
 #EXTINF:-1,IN: &TV HD Indonesia
 http://
 
-#EXTINF:-1,IN: &TV UK
-http://
+#EXTINF:-1,IN: &TV HD UK
+http://starshare.live:8080/live/Alpha365/Sigma366/2438.ts
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/and_pictures_in.png",IN: &Pictures
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/playlist.m3u8
@@ -317,7 +318,7 @@ https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799661
 https://
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2019/05/star_plus_hk_india.png",IN: Star Plus
-http://182.176.158.125:8000/play/a054/index.m3u8
+http://starshare.live:8080/live/Alpha365/Sigma366/167.ts
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/star_plus_hk_india_hd.png",IN: Star Plus HD
 https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799317
@@ -374,13 +375,16 @@ http://ds-tv.co:8080/3333711936844748/160718090519/93798
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
  
 #EXTINF:-1,IN: Star Life
-http://
+http://starshare.live:8080/live/Alpha365/Sigma366/19837.ts
  
 #EXTINF:-1,IN: Star World
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_World_HD.png",IN: Star World HD
 https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799336
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_World_HD.png",IN: Star World HD OSN
+http://starshare.live:8080/live/Alpha365/Sigma366/797.ts
  
 #EXTINF:-1,IN: Star World ME
 http://
@@ -433,6 +437,9 @@ http://
 #EXTINF:-1,IN: Star Suvarna HD
 http://mhdtvworld.live/stream/star-suvarna/
 
+#EXTINF:-1,IN: Star Suvarna Plus
+http://starshare.live:8080/live/Alpha365/Sigma366/163.ts
+
 #EXTINF:-1,IN: Star Pravah
 http://
  
@@ -443,10 +450,10 @@ https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799735
 http://208.115.215.42/Star_Vijay_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,IN: Star Vijay HD
-http://199.66.92.35:8080/STARViJAY4KPREMIUM/playlist.m3u8?token=test
+http://starshare.live:8080/live/Alpha365/Sigma366/157.ts
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/Colors.in.png",IN: Colors
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.m3u8
+http://starshare.live:8080/live/Alpha365/Sigma366/219.ts
   
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/colorstvhd.png",IN: Colors HD
 https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799321
@@ -465,6 +472,9 @@ https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/i
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2020/08/colors-cineplex-in.png",IN: Colors Cineplex
 https://mhdtvworld.live/stream/rishtey-cineplex-jio/
+
+#EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2020/08/colors-cineplex-in.png",IN: Colors Cineplex UK
+http://starshare.live:8080/live/Alpha365/Sigma366/2440.ts
 
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png",IN: Colors Cineplex HD
 https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799329
@@ -488,7 +498,7 @@ https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799734
 http://
  
 #EXTINF:-1,IN: Colors Bangla HD
-http://163.172.29.246:8081/globalbd/colorsbangla/chunks.m3u8
+http://starshare.live:8080/live/Alpha365/Sigma366/183.ts
  
 #EXTINF:-1,IN: Colors Tamil
 http://uk1.zecast.com:1935/star-live/colours/chunklist_w468669111.m3u8
@@ -500,7 +510,7 @@ https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799382
 http://
 
 #EXTINF:-1,IN: Colors Kannada HD
-http://mhdtvworld.live/stream/colors-kannada-hd/
+http://starshare.live:8080/live/Alpha365/Sigma366/162.ts
 
 #EXTINF:-1,IN: Colors Kannada Cinema
 http://
@@ -566,7 +576,7 @@ https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799324
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/16036
  
 #EXTINF:-1,IN: SONY MAX HD UK
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/5984
+http://starshare.live:8080/live/Alpha365/Sigma366/2441.ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg",IN: SONY MAX 2
 http://182.176.93.225:8000/play/a02r/index.m3u8
@@ -578,11 +588,11 @@ https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist_b896000_sleng.m
 http://master.beeiptv.com:8081/LAW/sonyaath/playlist.m3u8
  
 #EXTINF:-1,IN: SONY YAY
-http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/83698
+http://starshare.live:8080/live/Alpha365/Sigma366/204.ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",IN: SONY PIX HD
-http://182.176.93.225:8000/play/a040/index.m3u8
- 
+http://starshare.live:8080/live/Alpha365/Sigma366/147.ts
+
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/dangal_in.png",IN: Dangal
 https://itvorigin.multitvsolution.com/idvo/dangal_540p/index.m3u8
 
@@ -606,6 +616,9 @@ https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799727
  
 #EXTINF:-1,IN: MN+ HD
 http://182.176.93.225:8000/play/a00w/index.m3u8
+
+#EXTINF:-1,IN: HBO 2
+http://starshare.live:8080/live/Alpha365/Sigma366/185.ts
 
 #EXTINF:-1,IN: UTV
 http://
@@ -635,7 +648,7 @@ http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/83648
 https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/1212@!liveInx1/mtvbeats/chunks.m3u8?nimblesessionid=23420599&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMCA3OjU1OjE1IFBNJmhhc2hfdmFsdWU9L2w5Q2xYaDRJcU5Qb2RxcnAraEdTZz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/MTVBEATS.png",IN: MTV Beats HD
-https://mhdtvworld.live/stream/mtv-beats-hd/
+http://starshare.live:8080/live/Alpha365/Sigma366/153.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/250px-MTV_Hits_2017_logo.svg.png",IN: MTV Hits
 https://tivimateplaylists.live/mtv350fps
@@ -653,7 +666,7 @@ https://z5amshls.akamaized.net/bigganga/tracks-v2a1/index.m3u8
 https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/indialpc@!2/b4umusic/chunks.m3u8?nimblesessionid=23420755&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMCA3OjU3OjU1IFBNJmhhc2hfdmFsdWU9QUNJdzEzeTExOFNtNE1PSzArRXl6UT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/B4U_MOVIES.png",IN: B4U Movies
-https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/indialpc@!2/b4umovies/chunks.m3u8?nimblesessionid=23420833&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMCA3OjU5OjE3IFBNJmhhc2hfdmFsdWU9STlCenorRlpYNFJwalZhZGdRZWFUQT09JnZhbGlkbWludXRlcz0y
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/8dhJaLLyDp/96189
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S5DxAU8.png",IN: B4U Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
@@ -676,14 +689,59 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExkhL2U.png",IN: DD National
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
 
+#EXTINF:-1,IN: DD India International
+http://starshare.live:8080/live/Alpha365/Sigma366/4045.ts
+http://starshare.live:8080/live/Alpha365/Sigma366/4039.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TSvkIfA.png",IN: DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+http://starshare.live:8080/live/Alpha365/Sigma366/4043.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZ7lXO7.png",IN: DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
+#EXTINF:-1,IN: DD Sports 2.0
+http://starshare.live:8080/live/Alpha365/Sigma366/4044.ts
+
+#EXTINF:-1,IN: DD Chandana
+http://starshare.live:8080/live/Alpha365/Sigma366/4038.ts
+
+#EXTINF:-1,IN: DD Sahyadri
+http://starshare.live:8080/live/Alpha365/Sigma366/4050.ts
+
+#EXTINF:-1,IN: DD Assam
+http://starshare.live:8080/live/Alpha365/Sigma366/4051.ts
+
+#EXTINF:-1,IN: DD Bihar
+http://starshare.live:8080/live/Alpha365/Sigma366/4040.ts
+
+#EXTINF:-1,IN: DD Kisan
+http://starshare.live:8080/live/Alpha365/Sigma366/4042.ts
+http://starshare.live:8080/live/Alpha365/Sigma366/4041.ts
+
+#EXTINF:-1,IN: DD Uttar Pradesh
+http://starshare.live:8080/live/Alpha365/Sigma366/4048.ts
+
+#EXTINF:-1,IN: DD Madhya Pradesh
+http://starshare.live:8080/live/Alpha365/Sigma366/4046.ts
+
+#EXTINF:-1,IN: DD Rajasthan
+http://starshare.live:8080/live/Alpha365/Sigma366/4047.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1rlU4J.png",IN: DD Malayalam
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+
+#EXTINF:-1,IN: DD Odia
+http://starshare.live:8080/live/Alpha365/Sigma366/4052.ts
+
+#EXTINF:-1,IN: DD Saptagiri
+http://starshare.live:8080/live/Alpha365/Sigma366/4053.ts
+
+#EXTINF:-1,IN: DD Bangla
+http://starshare.live:8080/live/Alpha365/Sigma366/4049.ts
+
+#EXTINF:-1,IN: DD Kashir
+http://starshare.live:8080/live/Alpha365/Sigma366/4055.ts
 
 #EXTINF:-1,IN: Aaj Tak
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
@@ -707,16 +765,16 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.m3u8
 http://182.176.93.225:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png",IN: Nick India
-http://182.176.93.225:8000/play/a04p/index.m3u8
+http://starshare.live:8080/live/Alpha365/Sigma366/205.ts
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/nick_in_hd_plus.png",IN: Nick HD+
 http://182.176.93.225:8000/play/a052/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/160183979177968473.png",IN: Sonic Nickelodeon
-http://182.176.93.225:8000/play/a01o/index.m3u8
+http://starshare.live:8080/live/Alpha365/Sigma366/207.ts
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png",IN: Nick Jr. India
-http://182.176.93.225:8000/play/a01q/index.m3u8
+http://starshare.live:8080/live/Alpha365/Sigma366/206.ts
   
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",IN: Pogo
 http://182.176.93.225:8000/play/a01p/index.m3u8
@@ -773,7 +831,7 @@ http://mhdtvworld.live/stream/etv-life/
 http://mhdtvworld.live/stream/etv-life-usa/
   
 #EXTINF:-1,IN: ETV Plus
-http://mhdtvworld.live/stream/etv-plus/
+http://starshare.live:8080/live/Alpha365/Sigma366/242.ts
   
 #EXTINF:-1,IN: ETV Plus US
 http://mhdtvworld.live/stream/etv-plus-usa/
@@ -887,31 +945,28 @@ http://211.245.55.198:1024/m2u/239.192.67.99:49220
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1,PK: ARY Digital
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/26026
+http://starshare.live:8080/live/Alpha365/Sigma366/124.ts
 
 #EXTINF:-1,PK: ARY Family
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 
+#EXTINF:-1,PK: ARY Family UK
+http://starshare.live:8080/live/Alpha365/Sigma366/125.ts
+
 #EXTINF:-1,PK: ARY Zindagi
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3158
+http://starshare.live:8080/live/Alpha365/Sigma366/123.ts
 
 #EXTINF:-1,PK: ARY Muzik
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3163
 
 #EXTINF:-1,PK: Urdu 1
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3143
+http://starshare.live:8080/live/Alpha365/Sigma366/100.ts
 
-#EXTINF:-1,PK: Urdu 1
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/25926
-
-#EXTINF:-1,PK: Hum TV HD
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3148
-
-#EXTINF:-1,PK: Hum TV HD
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/25985
+#EXTINF:-1,PK: Hum TV
+http://starshare.live:8080/live/Alpha365/Sigma366/122.ts
  
-#EXTINF:-1,PK: Hum TV Europe
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/5659
+#EXTINF:-1,PK: Hum World
+http://starshare.live:8080/live/Alpha365/Sigma366/121.ts
  
 #EXTINF:-1,PK: Hum Masala
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.m3u8
@@ -2241,18 +2296,19 @@ http://prosatbox.com:7474/momoFBpub/ZBxuNt3wMk/25609
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1024px-Canal%2B.svg.png",FR: CANAL+
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/tech_canalplus_ott_mobile-655617/hls/index.m3u8
+http://starshare.live:8080/live/Alpha365/Sigma366/242.ts
 
 #EXTINF:-1,FR: CANAL+ Décalé
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/1469
+http://starshare.live:8080/live/Alpha365/Sigma366/621.ts
 
 #EXTINF:-1,FR: CANAL+ Family
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/1468
 
 #EXTINF:-1,FR: CANAL+ Cinéma
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/1470
+http://starshare.live:8080/live/Alpha365/Sigma366/620.ts
 
 #EXTINF:-1,FR: CANAL+ Séries
-http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/1466
+http://starshare.live:8080/live/Alpha365/Sigma366/623.ts
  
 #EXTINF:-1,FR: CANAL+ Sport
 http://prosatbox.com:7474/momoFBpub/ZBxuNt3wMk/1748
@@ -2381,7 +2437,7 @@ https://tivi5hls-i.akamaihd.net/hls/live/678303/tivi5hls/tivi5mafrhls_1_1.m3u8
 http://185.232.53.5:2086/arellano/kgtL965n2Y/92247
 
 #EXTINF:-1,FR: Disney Channel
-http://185.232.53.5:2086/arellano/kgtL965n2Y/92250
+http://starshare.live:8080/live/Alpha365/Sigma366/629.ts
  
 #EXTINF:-1,FR: Disney Channel +1
 http://
@@ -2747,13 +2803,13 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
  
 #EXTINF:-1,AF: SABC 1
-http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/74011
+http://starshare.live:8080/live/Alpha365/Sigma366/4919.ts
  
 #EXTINF:-1,AF: SABC 2
-http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/74010
+http://starshare.live:8080/live/Alpha365/Sigma366/4920.ts
  
 #EXTINF:-1,AF: SABC 3
-http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/74009
+http://starshare.live:8080/live/Alpha365/Sigma366/4921.ts
 
 #EXTINF:-1,AF: eExtra
 http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/74043
@@ -2767,11 +2823,20 @@ http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/74040
 #EXTINF:-1,AF: eToonz
 http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/74039
  
-#EXTINF:-1,AF: M-Net HD
-http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/75255
+#EXTINF:-1,AF: M-Net
+http://starshare.live:8080/live/Alpha365/Sigma366/786.ts
  
-#EXTINF:-1,AF: M-Net +1 HD
-http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/75254
+#EXTINF:-1,AF: M-Net +1
+http://starshare.live:8080/live/Alpha365/Sigma366/2266.ts
+
+#EXTINF:-1,AF: M-Net Movies 2
+http://starshare.live:8080/live/Alpha365/Sigma366/4800.ts
+
+#EXTINF:-1,AF: M-Net Movies 3
+http://starshare.live:8080/live/Alpha365/Sigma366/4801.ts
+
+#EXTINF:-1,AF: M-Net Movies 4
+http://starshare.live:8080/live/Alpha365/Sigma366/4886.ts
 
 #EXTINF:-1,AF: M-Net Movies Premiere
 http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/75242
@@ -2791,20 +2856,32 @@ http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/75243
 #EXTINF:-1,AF: M-Net Movies Smile HD
 http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/75241
 
-#EXTINF:-1,AF: M-Net City HD
-http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/75244
+#EXTINF:-1,AF: M-Net City
+http://starshare.live:8080/live/Alpha365/Sigma366/2263.ts
 
 #EXTINF:-1,AF: M-Net Epic
-http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/75249
+http://starshare.live:8080/live/Alpha365/Sigma366/788.ts
 
 #EXTINF:-1,AF: M-Net Family
-http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/75251
+http://starshare.live:8080/live/Alpha365/Sigma366/789.ts
 
 #EXTINF:-1,AF: M-Net Urban
-http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/75250
+http://starshare.live:8080/live/Alpha365/Sigma366/992.ts
 
-#EXTINF:-1,AF: SPice TV
-http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/74005
+#EXTINF:-1,AF: e.tv
+http://starshare.live:8080/live/Alpha365/Sigma366/4855.ts
+
+#EXTINF:-1,AF: e.tv Extra
+http://starshare.live:8080/live/Alpha365/Sigma366/4856.ts
+
+#EXTINF:-1,AF: eMovies
+http://starshare.live:8080/live/Alpha365/Sigma366/4858.ts
+
+#EXTINF:-1,AF: eMovies Extra
+http://starshare.live:8080/live/Alpha365/Sigma366/4859.ts
+
+#EXTINF:-1,AF: Spice TV
+http://starshare.live:8080/live/Alpha365/Sigma366/2270.ts
 
 #EXTINF:-1,AF: CBeebies
 http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/79767
@@ -2813,7 +2890,7 @@ http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/79767
 http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/74030
 
 #EXTINF:-1,AF: Disney Channel
-http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/79765
+http://starshare.live:8080/live/Alpha365/Sigma366/19832.ts
 
 #EXTINF:-1,AF: Disney XD
 http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/79766
@@ -2828,16 +2905,16 @@ http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/79763
 http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/79764
  
 #EXTINF:-1,AF: Nickelodeon
-http://
+http://starshare.live:8080/live/Alpha365/Sigma366/2261.ts
  
 #EXTINF:-1,AF: Nick Jr.
 http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/79768
 
 #EXTINF:-1,AF: Nick Toons
-http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/79770
+http://starshare.live:8080/live/Alpha365/Sigma366/993.ts
  
 #EXTINF:-1,AF: MTV
-http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/74024
+http://starshare.live:8080/live/Alpha365/Sigma366/787.ts
  
 #EXTINF:-1,AF: MTV Base
 http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/10300
@@ -2882,7 +2959,7 @@ http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/78587
 http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/4679
 
 #EXTINF:-1,AF: Star Life
-http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/74004
+http://starshare.live:8080/live/Alpha365/Sigma366/19837.ts
 
 #EXTINF:-1,AF: B4U Plus
 http://kanaletshqiptare.ddns.net:8080/FLlNTXaPjn/3XZsl28LrP/4606
@@ -2970,1745 +3047,5 @@ http://39.135.225.5:18890/PLTV/88888888/224/3221226990/index.m3u8
 
 #EXTINF:-1 group-title="รายการต่างประเทศ" tvg-logo="https://www.tvkeep.com/uploads/dianshi/cctv4k.jpg",CCTV 4K
 http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",PTV sports
-http://103.49.168.170:8082/73/index.m3u8?token=154ec58fd40e7d50b2535c35cbc9dc04807c1fc9-6a6bbe09dcd1bec1660ce1a2d668b36d-1612620960-1612610160&remote=202.4.101.145
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9X Jhakaas
-https://edge01.iptv.digijadoo.net/live/9x_jhakaas/chunks.m3u8?expires=1612892325&md5=cvhULQY_AgXesLqvkNlysg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9XM
-https://edge01.iptv.digijadoo.net/live/9xm/chunks.m3u8?expires=1612892365&md5=pIHQzF2-w8QoMMzREHD7Dg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9X Jalwaa
-https://edge01.iptv.digijadoo.net/live/9x_jalwa/chunks.m3u8?expires=1612892391&md5=F3XmKeQXBwLTcnX014Wgsw&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",GAAN BANGLA
-https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8?expires=1612835944&md5=vw6XMZ3OvORB_89Hk0wItg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",ATN BANGLA
-https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8?expires=1612892458&md5=15gQmhjCXwwaiOvCcPPOhw&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="Bangla News",ATN News
-https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8?expires=1612892498&md5=WAIjLTjJ81Kwb5fXPx_Dfg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="ShamimHossainOfficial",Al Jazeera
-https://edge01.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8?expires=1612892537&md5=UiL3aWvhvuV9grXXEkr12Q&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Ananda TV
-https://edge01.iptv.digijadoo.net/live/ananda_tv/chunks.m3u8?expires=1612648227&md5=lE_6EcQTwT_YFgLP97GRZQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Asian TV
-https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8?expires=1612911262&md5=uHSe9A2kM5r2jplZvNqtPg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Lifestyle HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="Infotainment",BBC Lifestyle HD
-https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8?expires=1612911315&md5=ce88oAct58suu5SNwobo-g&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="ShamimHossainOfficial",BBC World News
-https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8?expires=1612911347&md5=0nJM-Oehoa33HgwB9Imxfg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",BTV WORLD 
-https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8?expires=1612649093&md5=bWgjsLdKo52El3h-kmZbbg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Bangla Tv HD
-https://edge01.iptv.digijadoo.net/live/bangla_tv/chunks.m3u8?expires=1612911370&md5=c-JEag1rL3B4VKrxuLYCQg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="Zee Talkies (1)" tvg-logo="" group-title="Bangla",Bangla Talkies (1)
-https://edge01.iptv.digijadoo.net/live/bangla_talkies/chunks.m3u8?expires=1612649259&md5=Np7MUoC8xwRx72TF9o_dfw&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Bangla Vision HD
-https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8?expires=1612911401&md5=WMwmhRGdpbP20a7AhA_vcg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",RTV
-https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8?expires=1612652844&md5=AnehHA3ydEWgLIpei8zUDw&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Bijoy TV
-https://edge01.iptv.digijadoo.net/live/bijoy_tv/chunks.m3u8?expires=1612649524&md5=ICUDTZgAEze1L14D8nfBwQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Boishakhi
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8?expires=1612649577&md5=y7k2Q8E8aGqFfRFNKt0IZQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Ananda TV
-https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8?expires=1612649733&md5=iof5sT8LclMKPGCvo8R_tg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Channel 9
-https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8?expires=1612649808&md5=0qnCL7xswBDvvorQ-mxF-g&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",SA TV
-https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8?expires=1612652878&md5=rfz0hvmGBxxA8EmU3Fo8Sw&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Channel i
-https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8?expires=1612649891&md5=qsMDlxmTpNaB1W-Y9sSWfw&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",DBC News
-https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8?expires=1612911515&md5=qG0VqcqzxRtWY_oyiMs6zw&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",71 News
-https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8?expires=1612912244&md5=UYraKui5WiXJgNUz3RYLGA&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Independent
-https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8?expires=1612652216&md5=kPkJJg0CsYRbPvKjeLh8rQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Jamuna TV
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8?expires=1612652380&md5=ePFcVlCFJhPy7xgyFp3dbg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Somoy news
-https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8?expires=1612652957&md5=dYBjG3cMfyRJ4J7Kj5x5_Q&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",News 24
-https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8?expires=1612652766&md5=m-7oHunKPWy4fD-KmQ36IQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Masranga TV
-https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8?expires=1612652475&md5=EI4euoABLckIQ-G_b5QTQg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Duranta Tv
-https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8?expires=1612650743&md5=jK6CvWQEuZqY0dF6K439kA&user=9335626110e9411cb7f7bf19657c21a7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Ekushey TV
-https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8?expires=1612651535&md5=fm2N6XPnhM9EGmqIEw-lUw&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",ENTER 10
-https://edge01.iptv.digijadoo.net/live/enter_ten/chunks.m3u8?expires=1612651845&md5=peU17PXONxkFvy9y0ubDpg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Gaan Bangla
-https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8?expires=1612912218&md5=LLr-lMPqFIQ8ZibtoW2baw&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Deepto TV
-https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8?expires=1612650230&md5=LvHcIdwTy3QRdiixohGA-w&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Desh TV
-https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8?expires=1612650524&md5=Qn7hS81ITgBMDfut9Y064Q&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",NTV
-https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8?expires=1612652577&md5=G-_BvlzeAq5kEduWwFLNeA&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Nagorik Tv
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8?expires=1612652618&md5=03aRaJXQ8hfxeGRv-j5r8g&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Nagorik Tv
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8?expires=1612912284&md5=_JXabOXfIHgwPGFb1knKyg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Dhinchaak
-https://edge01.iptv.digijadoo.net/live/dhinchaak/chunks.m3u8?expires=1612650732&md5=BAy6iecXExojvtjotcpZdQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Dhoom Music
-https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8?expires=1612650848&md5=itd6ioCWhT2J19A3s1uErg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Sangeet Bangla
-https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8?expires=1612652915&md5=v0SMqMWyQztS2Gz1f1DARA&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",jalsha Movies
-https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8?expires=1612652301&md5=7OhBh4QY5kCgNxgbaN1iEg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",jalsha Movies HD
-https://edge01.iptv.digijadoo.net/live/jalsha_movies_hd/chunks.m3u8?expires=1612652350&md5=mbKxEBI_qL1GkRXUSe3MaA&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Colors Bangla
-http://103.49.168.170:8082/43/index.m3u8?token=2b69a48327f8af952753e8da90e6641a8acb1021-05920d20e2e9658b4e62857f89be9e7d-1612621035-1612610235&remote=202.4.101.145
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Zee Bangla Cinema
-https://edge01.iptv.digijadoo.net/live/zee_bangla_cinema/chunks.m3u8?expires=1612656676&md5=GR5YY3Zqpf2GooICGKM1oQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Movies Now
-https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8?expires=1612580236&md5=BNOB6O9r5HSK2JIMRcLgwQ&user=9335626110e9411cb7f7bf19657c21a7
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD (English)" tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="English",Discovery HD (English)
-https://edge01.iptv.digijadoo.net/live/discovery_hd/chunks.m3u8?expires=1612911426&md5=9B-PmRgroK-QPPffaFcS2Q&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnaiciFTcri8EMmyBU7p9sbRz14QxONlZnXw&usqp=CAU" group-title="Kids",Discovery Kids
-https://edge01.iptv.digijadoo.net/live/discovery_kids/chunks.m3u8?expires=1612911485&md5=HJFa4STL9zkTeC9aH1QurQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Loly Kids
-https://edge01.iptv.digijadoo.net/live/lolly_kids/chunks.m3u8?expires=1612652416&md5=rIIrHEfmcKIU2XNl-JdinA&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science (1)" tvg-logo="" group-title="English",Discovery Science
-https://edge01.iptv.digijadoo.net/live/discovery_science/chunks.m3u8?expires=1612651126&md5=vuLMkt8gsyOA7UfHfWomGg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="" group-title="English",Discovery Turbo
-https://edge01.iptv.digijadoo.net/live/dsc_turbo/chunks.m3u8?expires=1612651208&md5=Eip_Y_9_rtJVs4T_4O3y6w&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",Nat Geo
-https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8?expires=1612652655&md5=W2NUcQEolTO88QmtfltnVg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",Nat Geo Wild
-https://edge01.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8?expires=1612652740&md5=zTp3c4FlYdAovaPRKymPdQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",Sky Comedy
-https://edge01.iptv.digijadoo.net/live/sky_comedy/chunks.m3u8?expires=1612653008&md5=U3KRjg-0bm_0qPplbGzasQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi",I love
-https://edge01.iptv.digijadoo.net/live/i_love/chunks.m3u8?expires=1612652162&md5=WsZtr-Cd1ZucdXobslQNLA&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star Bharat
-https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8?expires=1612912325&md5=jYOatStHZTb-smiKc5x4Mg&user=ef3b0701f26743a4a12ce79435bc6d0dd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star plus
-https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8?expires=1612656622&md5=m_NxtaAzWY05-L-an0ugjg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star gold 2
-https://edge01.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8?expires=1612912346&md5=3h2PXufEM-_IuJrjsfP1oA&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star gold HD
-https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8?expires=1612912363&md5=VX0X8ctVGr0gOD7LH3aXbA&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star gold intl HD
-https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8?expires=1612912381&md5=JCjh3OuRzq7qlCM5Tq4c8g&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star world HD
-https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8?expires=1612825287&md5=vyr1xs_6n4DubM6JV7tb0w&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Zee TV
-https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?expires=1612912497&md5=jTfZlmxeC_HH0vg7K0FkNQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Colors
-http://103.49.168.170:8082/68/index.m3u8?token=b8f3b0fcefeb58a37deba05fc92bb582aa46dd81-c20331e581a4315a5441100eca515415-1612620102-1612609302&remote=202.4.101.145
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Sony
-http://103.49.168.170:8082/38/index.m3u8?token=e07f9890748c4c98accf74ee029bbe40fa8c3c14-31d5b10e9950ca451fb99ff7b890ee34-1612620208-1612609408&remote=202.4.101.145
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Sony Max
-https://live.bongobd.com/hls/so8k8fUKPA-C5vyGx-xmpg/1612623830/set_max_hi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Zee Cinema
-https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?expires=1612912442&md5=gMZOxdapgCr7pR5LvF69hA&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", & tv
-http://103.49.168.170:8082/100/index.m3u8?token=7b6743d5e89102a378709508116d736f9bb2eb76-6ead1bf512f32d52750c3d20076d6546-1612620521-1612609721&remote=202.4.101.145
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", & picture
-http://103.49.168.170:8082/74/index.m3u8?token=5b69b975c88fc7ceaebbec27b17f4d11f5413132-393889c6659c497904f97cde330cb702-1612620478-1612609678&remote=202.4.101.145
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Zing
-https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8?expires=1612912471&md5=CpoKwDHdONgwMH7Y4-HPeQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",Zee cafe HD
-http://103.49.168.170:8082/69/index.m3u8?token=59629fdc053c30190a6cf0e66dba08697327cd64-0d9d53b814a24ed3db33366e83688808-1612620043-1612609243&remote=202.4.101.145
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",HBO
-http://103.49.168.170:8082/1/index.m3u8?token=4cc80489973999d6becac78b2e9f451b5eb8639b-d647e4ed3a8d55ff4d1648fdab36d286-1612619931-1612609131&remote=202.4.101.145
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Zoom
-https://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8?expires=1612825340&md5=kb7QuXZKz0P3hEAH1OglRw&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Dil sab
-https://edge01.iptv.digijadoo.net/live/dabangg/chunks.m3u8?expires=1612825097&md5=AkiW9Dp6e9M8Ahq0AuidhA&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Dillagi
-https://edge01.iptv.digijadoo.net/live/dillagi/chunks.m3u8?expires=1612825127&md5=lkDutHkRMqBAiYZC1RAESg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Ary 
-https://edge01.iptv.digijadoo.net/live/ary_muzik/chunks.m3u8?expires=1612892425&md5=jflD32mUXa77qQxgSi28MA&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Music India
-https://live.bongobd.com/hls/nFpf8fAknFTWaYl2E0eACA/1612623922/music_india_hi/index.m3u8
-
-#EXTINF:-1,IN: Zing IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47518
-#EXTINF:-1,IN: Zee TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/47519
-#EXTINF:-1,IN: Zee Tamil HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47520
-#EXTINF:-1,IN: Zee Talkies IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47521
-#EXTINF:-1,IN: Zee News IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47522
-#EXTINF:-1,IN: Zee Hindustan IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47523
-#EXTINF:-1,IN: Zee Cinema HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47524
-#EXTINF:-1,IN: Zee Cafe IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47525
-#EXTINF:-1,IN: Zee Bangla HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47526
-#EXTINF:-1,IN: Travel Xp HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47527
-#EXTINF:-1,IN: Tlc World
-http://client.more-itv.com:8080/57ijhg/e46ujj/47528
-#EXTINF:-1,IN: Ten Sports IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47529
-#EXTINF:-1,IN: Ten 3 HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47530
-#EXTINF:-1,IN: Ten 2 HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47531
-#EXTINF:-1,IN: Ten 1 HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47532
-#EXTINF:-1,IN: Surya Samachar IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47533
-#EXTINF:-1,IN: Sun TV HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47534
-#EXTINF:-1,IN: Stars Sports 2 HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47535
-#EXTINF:-1,IN: Star World HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47536
-#EXTINF:-1,IN: Star Vijay Super IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47537
-#EXTINF:-1,IN: Star Vijay HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47538
-#EXTINF:-1,IN: Star Sprots 1 HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47539
-#EXTINF:-1,IN: Star Sports Select 2 HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47540
-#EXTINF:-1,IN: Star Sports Select 1 HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47541
-#EXTINF:-1,IN: Star Sports Hindi HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47542
-#EXTINF:-1,IN: Star Plus HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47543
-#EXTINF:-1,IN: Star Movies HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47544
-#EXTINF:-1,IN: Star Maa HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47545
-#EXTINF:-1,IN: Star Gold Select HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47546
-#EXTINF:-1,IN: Star Gold HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47547
-#EXTINF:-1,IN: Star Bharat IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47548
-#EXTINF:-1,IN: Sony Sab HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47549
-#EXTINF:-1,IN: Sony Max HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47550
-#EXTINF:-1,IN: Sony HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47551
-#EXTINF:-1,IN: Sky Star Movies IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47552
-#EXTINF:-1,IN: Republic News
-http://client.more-itv.com:8080/57ijhg/e46ujj/47553
-#EXTINF:-1,IN: Rajya Sabha IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47554
-#EXTINF:-1,IN: Public News IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47555
-#EXTINF:-1,IN: Ptc Punjabi IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47556
-#EXTINF:-1,IN: Ptc News IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47557
-#EXTINF:-1,IN: Ptc Chak De IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47558
-#EXTINF:-1,IN: Sony Pix HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47559
-#EXTINF:-1,IN: Peace TV HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47560
-#EXTINF:-1,IN: Peace TV English IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47561
-#EXTINF:-1,IN: Paigham Urdu IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47562
-#EXTINF:-1,IN: Paigham Pashtoo IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47563
-#EXTINF:-1,IN: Nicktoons HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/47564
-#EXTINF:-1,IN: News Rajhistan IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47565
-#EXTINF:-1,IN: National Geographic
-http://client.more-itv.com:8080/57ijhg/e46ujj/47566
-#EXTINF:-1,IN: Nat Geo Wild IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47567
-#EXTINF:-1,IN: Masti IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47568
-#EXTINF:-1,IN: Mahamovies IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47569
-#EXTINF:-1,IN: Lok Sabha IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47570
-#EXTINF:-1,IN: Sony Pal HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47571
-#EXTINF:-1,IN: Kashish news  IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47572
-#EXTINF:-1,IN: Jalwa IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47573
-#EXTINF:-1,IN: India News IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47574
-#EXTINF:-1,IN: Ifilm HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47575
-#EXTINF:-1,IN: History HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47576
-#EXTINF:-1,IN: Hbo HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47577
-#EXTINF:-1,IN: Fox Life HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/47578
-#EXTINF:-1,IN: Express News HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47579
-#EXTINF:-1,IN: Express Entertainment IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47580
-#EXTINF:-1,IN: Etv Uk IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47581
-#EXTINF:-1,IN: Espn IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47582
-#EXTINF:-1,IN: Epic HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47583
-#EXTINF:-1,IN: Disney HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47584
-#EXTINF:-1,IN: Discovery Turbo
-http://client.more-itv.com:8080/57ijhg/e46ujj/47585
-#EXTINF:-1,IN: Discovery Science HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47586
-#EXTINF:-1,IN: BBO HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47587
-#EXTINF:-1,IN: Prime Asia TV IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47588
-#EXTINF:-1,IN: Discovery HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47589
-#EXTINF:-1,IN: DD Urdu IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47590
-#EXTINF:-1,IN: DD Sports IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47591
-#EXTINF:-1,IN: DD Punjabi IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47592
-#EXTINF:-1,IN: DD Kisan IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47593
-#EXTINF:-1,IN: DD Girner IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47594
-#EXTINF:-1,IN: DD Chandana IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47595
-#EXTINF:-1,IN: DD Bharat IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47596
-#EXTINF:-1,IN: DD Bangla IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47597
-#EXTINF:-1,IN: DD Arun IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47598
-#EXTINF:-1,IN: Dangal IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47599
-#EXTINF:-1,IN: Colours UK IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47600
-#EXTINF:-1,IN: Colors Tamil HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47601
-#EXTINF:-1,IN: Colors Infinity HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47602
-#EXTINF:-1,IN: Colors HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47603
-#EXTINF:-1,IN: Colors Bangla HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47604
-#EXTINF:-1,IN: Colors Cinerplex HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/78762
-#EXTINF:-1,IN: Cineplex HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47605
-#EXTINF:-1,IN: Cinemachi Kids IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47606
-#EXTINF:-1,IN: Cartoon Network IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47607
-#EXTINF:-1,IN: Bollywood Movies IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47608
-#EXTINF:-1,IN: Big Magic IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47609
-#EXTINF:-1,IN: Bhojpori Cinema IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47610
-#EXTINF:-1,IN: Baby TV HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47611
-#EXTINF:-1,IN: B4u Music HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/47612
-#EXTINF:-1,IN: B4u Movies HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/47613
-#EXTINF:-1,IN: Asianet HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47614
-#EXTINF:-1,IN: Animal Planet World HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47615
-#EXTINF:-1,IN: Animal Planet HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/47616
-#EXTINF:-1,IN: AAJ News IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47617
-#EXTINF:-1,IN: AAJ Katez IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47618
-#EXTINF:-1,IN: 9xm IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47619
-#EXTINF:-1,IN: 8xm HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/47620
-#EXTINF:-1,IN: 4tv News IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47621
-#EXTINF:-1,IN: 1 IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47622
-#EXTINF:-1,IN: &Tv HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47623
-#EXTINF:-1,IN: &Prive HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47624
-#EXTINF:-1,IN: &Pictures HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47625
-#EXTINF:-1,IN: &Flix HD IN
-http://client.more-itv.com:8080/57ijhg/e46ujj/47626
-#EXTINF:-1,IN: Jaya Max
-http://client.more-itv.com:8080/57ijhg/e46ujj/92843
-#EXTINF:-1,IN: Jaya Movies
-http://client.more-itv.com:8080/57ijhg/e46ujj/92844
-#EXTINF:-1,IN: Jaya Plus
-http://client.more-itv.com:8080/57ijhg/e46ujj/92845
-#EXTINF:-1,IN: Jaya Tv HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92846
-#EXTINF:-1,IN: Nick Jr (Hindi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92847
-#EXTINF:-1,IN: Maha News
-http://client.more-itv.com:8080/57ijhg/e46ujj/92848
-#EXTINF:-1,IN: AXN HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92849
-#EXTINF:-1,IN: &xplore HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92850
-#EXTINF:-1,IN: Aaho Music HD (Punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92851
-#EXTINF:-1,IN: Josh HD (Punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92852
-#EXTINF:-1,IN: Pogo (hindi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92853
-#EXTINF:-1,IN: Pogo (tamil)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92854
-#EXTINF:-1,IN: Star World Premier HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92855
-#EXTINF:-1,IN: MH 1 (Punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92856
-#EXTINF:-1,IN: Gabru tv HD (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92857
-#EXTINF:-1,IN: Jus Punjabi HD (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92858
-#EXTINF:-1,IN: Vision Punjabi Music HD (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92859
-#EXTINF:-1,IN: Vision Punjabi HD (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92860
-#EXTINF:-1,IN: Sangat tv (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92861
-#EXTINF:-1,IN: Sikh Lehar HD (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92862
-#EXTINF:-1,IN: Zee News (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92863
-#EXTINF:-1,IN: Zee Punjabi (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92864
-#EXTINF:-1,IN: Trucking TV (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92865
-#EXTINF:-1,IN: Jhanger HD (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92866
-#EXTINF:-1,IN: Living India News (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92867
-#EXTINF:-1,IN: Maha Punjabi (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92868
-#EXTINF:-1,IN: Only Music (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92869
-#EXTINF:-1,IN: Ptc Simran (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92870
-#EXTINF:-1,IN: Punjabi Zindabad (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92871
-#EXTINF:-1,IN: 5Aab Music hd (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92872
-#EXTINF:-1,IN: 5aab Tv Australia (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92873
-#EXTINF:-1,IN: 5aabTV Gurbani HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92874
-#EXTINF:-1,IN: 5aabTV kabaddi HD (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92875
-#EXTINF:-1,IN: Akaal Tv (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92876
-#EXTINF:-1,IN: Alpha etc (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92877
-#EXTINF:-1,IN: Apna Punjab (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92878
-#EXTINF:-1,IN: Channel Punjabi HD (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92879
-#EXTINF:-1,IN: Cine Voice (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92880
-#EXTINF:-1,IN: Ek Omkar TV (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92881
-#EXTINF:-1,IN: Fast Way News (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92882
-#EXTINF:-1,IN: Garv Gurban HD (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92883
-#EXTINF:-1,IN: Gdns Ludhiana (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92884
-#EXTINF:-1,IN: Globel Punjab (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92885
-#EXTINF:-1,IN: Hul Chal TV  (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92886
-#EXTINF:-1,IN: Gurbani Healing (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92887
-#EXTINF:-1,IN: Humdard Laughter HD (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92888
-#EXTINF:-1,IN: Humgama Amritvani HD (punjabi
-http://client.more-itv.com:8080/57ijhg/e46ujj/92889
-#EXTINF:-1,IN: Indoz Tv HD (punjabi)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92890
-#EXTINF:-1,IN: GUJ |  SHREE KASHI VISHVANATH
-http://client.more-itv.com:8080/57ijhg/e46ujj/92891
-#EXTINF:-1,IN: GUJ |  TV9 GUJARATI HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92892
-#EXTINF:-1,IN: GUJ | ABP ASMITA HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92893
-#EXTINF:-1,IN: GUJ | CNBC BAJAR GUJRATI HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92894
-#EXTINF:-1,IN: GUJ | COLORS GUJARATI (JIO)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92895
-#EXTINF:-1,IN: GUJ | DD GIRNAR HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92896
-#EXTINF:-1,IN: GUJ | GARV SWAMINARYAN HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92897
-#EXTINF:-1,IN: GUJ | GS TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92898
-#EXTINF:-1,IN: GUJ | INDIA NEWS GUJRAT
-http://client.more-itv.com:8080/57ijhg/e46ujj/92899
-#EXTINF:-1,IN: GUJ | KALUPUR MANDIR
-http://client.more-itv.com:8080/57ijhg/e46ujj/92900
-#EXTINF:-1,IN: GUJ | KALYAN TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92901
-#EXTINF:-1,IN: GUJ | KARTAVYA TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/92902
-#EXTINF:-1,IN: GUJ | KATHAMRUT TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/92903
-#EXTINF:-1,IN: GUJ | LAKSHYA TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92904
-#EXTINF:-1,IN: GUJ | MANTAVYA NEWS GUJRAT
-http://client.more-itv.com:8080/57ijhg/e46ujj/92905
-#EXTINF:-1,IN: GUJ | MITRA HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92906
-#EXTINF:-1,IN: GUJ | NEWS 18 GUJARATI HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92907
-#EXTINF:-1,IN: GUJ | SADVIDYA TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92908
-#EXTINF:-1,IN: GUJ | SANDESH NEWS HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92909
-#EXTINF:-1,IN: GUJ | SANSKAR TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/92910
-#EXTINF:-1,IN: GUJ | SHEMAROOME SHOWS
-http://client.more-itv.com:8080/57ijhg/e46ujj/92911
-#EXTINF:-1,IN: GUJ | SOMNATH
-http://client.more-itv.com:8080/57ijhg/e46ujj/92912
-#EXTINF:-1,IN: GUJ | ZEE 24 KALAK HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92913
-#EXTINF:-1,IN: KAND | AYUSH TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92914
-#EXTINF:-1,IN: KAND | COLORS KANNADA HD JIO
-http://client.more-itv.com:8080/57ijhg/e46ujj/92915
-#EXTINF:-1,IN: KAND | NEWS18 KANNADA HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92916
-#EXTINF:-1,IN: KAND | NEWS9
-http://client.more-itv.com:8080/57ijhg/e46ujj/92917
-#EXTINF:-1,IN: KAND | PRAJAA TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92918
-#EXTINF:-1,IN: KAND | PUBLIC MUSIC HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92919
-#EXTINF:-1,IN: KAND | PUBLIC TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/92920
-#EXTINF:-1,IN: KAND | STAR SUVARNA (HOTSTAR)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92921
-#EXTINF:-1,IN: KAND | STAR SUVARNA PLUS (HOTSTAR)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92922
-#EXTINF:-1,IN: KAND | SUVARNA NEWS HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92923
-#EXTINF:-1,IN: KAND | TV5 NEWS HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92924
-#EXTINF:-1,IN: KAND | TV9 KANNADA (NEWS)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92925
-#EXTINF:-1,IN: KAND | UDAYA COMEDY FHD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92926
-#EXTINF:-1,IN: KAND | UDAYA MOVIES FHD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92927
-#EXTINF:-1,IN: KAND | UDAYA TV FHD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92928
-#EXTINF:-1,IN: KAND | UDAYA TV FHD (UK)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92929
-#EXTINF:-1,IN: KAND | UDAYA TV FHD (USA)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92930
-#EXTINF:-1,IN: KAND | ZEE KANNADA HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92931
-#EXTINF:-1,IN: KAND | ZEE PICCHAR
-http://client.more-itv.com:8080/57ijhg/e46ujj/92932
-#EXTINF:-1,IN: MALAYALAM | 24NEWS HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92933
-#EXTINF:-1,IN: MALAYALAM | ACV UTSAV PLUS
-http://client.more-itv.com:8080/57ijhg/e46ujj/92934
-#EXTINF:-1,IN: MALAYALAM | AMRITA TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/92935
-#EXTINF:-1,IN: MALAYALAM | ASIANET MOVIES HD (HOTSTAR)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92936
-#EXTINF:-1,IN: MALAYALAM | ASIANET NEWS HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92937
-#EXTINF:-1,IN: MALAYALAM | ASIANET PLUS HD (HOTSTAR)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92938
-#EXTINF:-1,IN: MALAYALAM | ASIANET SD (HOTSTAR)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92939
-#EXTINF:-1,IN: MALAYALAM | FLOWERS TV (JIO)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92940
-#EXTINF:-1,IN: MALAYALAM | GARSHOM TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92941
-#EXTINF:-1,IN: MALAYALAM | JANAM TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92942
-#EXTINF:-1,IN: MALAYALAM | JAYHIND HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92943
-#EXTINF:-1,IN: MALAYALAM | JEEVAN TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/92944
-#EXTINF:-1,IN: MALAYALAM | KAPPA TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/92945
-#EXTINF:-1,IN: MALAYALAM | KAUMUDI HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92946
-#EXTINF:-1,IN: MALAYALAM | MEDIA ONE HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92947
-#EXTINF:-1,IN: MALAYALAM | NEWS 18 KERALA HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92948
-#EXTINF:-1,IN: MALAYALAM | POWER VESION HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92949
-#EXTINF:-1,IN: MALAYALAM | REPORTER NEWS
-http://client.more-itv.com:8080/57ijhg/e46ujj/92950
-#EXTINF:-1,IN: MALAYALAM | SAFARI HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92951
-#EXTINF:-1,IN: MALAYALAM | WE TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92952
-#EXTINF:-1,IN: MALAYALM | ACV NEWS HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92953
-#EXTINF:-1,IN: MALAYALM | ACV TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/92954
-#EXTINF:-1,IN: MALAYALM | ACV UTSAV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92955
-#EXTINF:-1,IN: MALAYALM | DARSHANA TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/92956
-#EXTINF:-1,IN: MALAYALM | HARVEST TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92957
-#EXTINF:-1,IN: MALAYALM | KAIRALI ARABIA
-http://client.more-itv.com:8080/57ijhg/e46ujj/92958
-#EXTINF:-1,IN: MALAYALM | KAIRALI HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92959
-#EXTINF:-1,IN: MALAYALM | MATHRUBHUMI NEWS HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92960
-#EXTINF:-1,IN: MALAYALM | MAZHAVIL MANORAMA HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92961
-#EXTINF:-1,IN: MALAYALM | SHALOM HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92962
-#EXTINF:-1,IN: MALAYALM | SHEKINAH TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92963
-#EXTINF:-1,IN: MALAYALM | SURYA COMEDY HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92964
-#EXTINF:-1,IN: MALAYALM | SURYA COMEDY HD (USA)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92965
-#EXTINF:-1,IN: MALAYALM | SURYA MOVIES HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92966
-#EXTINF:-1,IN: MALAYALM | SURYA MOVIES HD (USA)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92967
-#EXTINF:-1,IN: MALAYALM | SURYA TV FHD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92968
-#EXTINF:-1,IN: MALAYALM | SURYA TV FHD (UK)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92969
-#EXTINF:-1,IN: MALAYALM | SURYA TV FHD (USA)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92970
-#EXTINF:-1,IN: MALAYLAM | M4 MALAYALAM TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/92971
-#EXTINF:-1,IN: MARATHI  | ZEE TALKIES HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92972
-#EXTINF:-1,IN: MARATHI | 9X JHAKAAS
-http://client.more-itv.com:8080/57ijhg/e46ujj/92973
-#EXTINF:-1,IN: MARATHI | ABP MAJHA
-http://client.more-itv.com:8080/57ijhg/e46ujj/92974
-#EXTINF:-1,IN: MARATHI | BBC MARTHI (JIO)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92975
-#EXTINF:-1,IN: MARATHI | CLASSICS MARATHI HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92976
-#EXTINF:-1,IN: MARATHI | COLORS MARATHI FHD JIO
-http://client.more-itv.com:8080/57ijhg/e46ujj/92977
-#EXTINF:-1,IN: MARATHI | DD Sahyadri HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92978
-#EXTINF:-1,IN: MARATHI | FAKT MARATHI
-http://client.more-itv.com:8080/57ijhg/e46ujj/92979
-#EXTINF:-1,IN: MARATHI | MAILBOLI
-http://client.more-itv.com:8080/57ijhg/e46ujj/92980
-#EXTINF:-1,IN: MARATHI | NEWS18 LOKMAT
-http://client.more-itv.com:8080/57ijhg/e46ujj/92981
-#EXTINF:-1,IN: MARATHI | SAAM MARATHI HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92982
-#EXTINF:-1,IN: MARATHI | SONY MARATHI HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92983
-#EXTINF:-1,IN: MARATHI | TV9 MARATHI HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92984
-#EXTINF:-1,IN: MARATHI | ZEE  24 TAAS
-http://client.more-itv.com:8080/57ijhg/e46ujj/92985
-#EXTINF:-1,IN: MARATHI | ZEE MARATHI (USA)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92986
-#EXTINF:-1,IN: MARATHI | ZEE MARATHI HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92987
-#EXTINF:-1,IN: MARATHI | ZEE TALKIES HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92988
-#EXTINF:-1,IN: MARATHI | ZEE YUVA.HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92989
-#EXTINF:-1,IN: TAMIL |  POLIMER NEWS
-http://client.more-itv.com:8080/57ijhg/e46ujj/92990
-#EXTINF:-1,IN: TAMIL |  PUTHUYUGAM TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/92991
-#EXTINF:-1,IN: TAMIL |  ZEE TAMIL HD (USA)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92992
-#EXTINF:-1,IN: TAMIL | 7STARTV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92993
-#EXTINF:-1,IN: TAMIL | AASTHA TAMIL HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92994
-#EXTINF:-1,IN: TAMIL | AKARAM GALATTA
-http://client.more-itv.com:8080/57ijhg/e46ujj/92995
-#EXTINF:-1,IN: TAMIL | AKARAM MIX
-http://client.more-itv.com:8080/57ijhg/e46ujj/92996
-#EXTINF:-1,IN: TAMIL | AKARAMTV
-http://client.more-itv.com:8080/57ijhg/e46ujj/92997
-#EXTINF:-1,IN: TAMIL | ANGEL TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92998
-#EXTINF:-1,IN: TAMIL | ANGEL TV HD (UK)
-http://client.more-itv.com:8080/57ijhg/e46ujj/92999
-#EXTINF:-1,IN: TAMIL | ANGEL TV HD (USA)
-http://client.more-itv.com:8080/57ijhg/e46ujj/93000
-#EXTINF:-1,IN: TAMIL | CAPTAIN NEWS HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93001
-#EXTINF:-1,IN: TAMIL | CAPTAIN TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/93002
-#EXTINF:-1,IN: TAMIL | CLASSICS TAMIL MOVIES
-http://client.more-itv.com:8080/57ijhg/e46ujj/93003
-#EXTINF:-1,IN: TAMIL | COLORS TAMIL HD (JIO)
-http://client.more-itv.com:8080/57ijhg/e46ujj/93004
-#EXTINF:-1,IN: TAMIL | DD PODHIGAI
-http://client.more-itv.com:8080/57ijhg/e46ujj/93005
-#EXTINF:-1,IN: TAMIL | EETV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93006
-#EXTINF:-1,IN: TAMIL | IBC BAKTHI HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93007
-#EXTINF:-1,IN: TAMIL | IBC CANADA HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93008
-#EXTINF:-1,IN: TAMIL | IBC COMEDY
-http://client.more-itv.com:8080/57ijhg/e46ujj/93009
-#EXTINF:-1,IN: TAMIL | IBC KIDS
-http://client.more-itv.com:8080/57ijhg/e46ujj/93010
-#EXTINF:-1,IN: TAMIL | IBC MUSIC HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93011
-#EXTINF:-1,IN: TAMIL | IBC SILUVAI HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93012
-#EXTINF:-1,IN: TAMIL | IBC TAMIL HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93013
-#EXTINF:-1,IN: TAMIL | JAYA TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/93014
-#EXTINF:-1,IN: TAMIL | KAIRALI NEWS HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93015
-#EXTINF:-1,IN: TAMIL | KALAIGNAR TV NEWS
-http://client.more-itv.com:8080/57ijhg/e46ujj/93016
-#EXTINF:-1,IN: TAMIL | KOLLYWOOD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93017
-#EXTINF:-1,IN: TAMIL | KTV  FHD (USA)
-http://client.more-itv.com:8080/57ijhg/e46ujj/93018
-#EXTINF:-1,IN: TAMIL | KTV FHD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93019
-#EXTINF:-1,IN: TAMIL | KTV HD (UK)
-http://client.more-itv.com:8080/57ijhg/e46ujj/93020
-#EXTINF:-1,IN: TAMIL | LOTUS NEWS HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93021
-#EXTINF:-1,IN: TAMIL | MADHA TV (SPIRTUAL)
-http://client.more-itv.com:8080/57ijhg/e46ujj/93022
-#EXTINF:-1,IN: TAMIL | MAKKAL TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93023
-#EXTINF:-1,IN: TAMIL | MEENAKSHI TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/93024
-#EXTINF:-1,IN: TAMIL | NEWS 18 TAMIL NADU HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93025
-#EXTINF:-1,IN: TAMIL | NEWS7 TAMIL HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93026
-#EXTINF:-1,IN: TAMIL | NEWSJ HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93027
-#EXTINF:-1,IN: TAMIL | PEPPERS TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/93028
-#EXTINF:-1,IN: TAMIL | PUTHIYATHALAIMURAI TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93029
-#EXTINF:-1,IN: TAMIL | RAJ TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93030
-#EXTINF:-1,IN: TAMIL | SIGARAM TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/93031
-#EXTINF:-1,IN: TAMIL | STAR VIJAY INDIA FHD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93032
-#EXTINF:-1,IN: TAMIL | STAR VIJAY SD (HOTSTAR)
-http://client.more-itv.com:8080/57ijhg/e46ujj/93033
-#EXTINF:-1,IN: TAMIL | STAR VIJYA HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93034
-#EXTINF:-1,IN: TAMIL | SUN LIFE HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93035
-#EXTINF:-1,IN: TAMIL | SUN LIFE HD (USA)
-http://client.more-itv.com:8080/57ijhg/e46ujj/93036
-#EXTINF:-1,IN: TAMIL | SUN MUSIC HD VIP (USA)
-http://client.more-itv.com:8080/57ijhg/e46ujj/93037
-#EXTINF:-1,IN: TAMIL | SUN NEWS
-http://client.more-itv.com:8080/57ijhg/e46ujj/93038
-#EXTINF:-1,IN: TAMIL | SUN TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93039
-#EXTINF:-1,IN: TAMIL | SUN TV HD (UK)
-http://client.more-itv.com:8080/57ijhg/e46ujj/93040
-#EXTINF:-1,IN: TAMIL | SUN TV HD (USA)
-http://client.more-itv.com:8080/57ijhg/e46ujj/93041
-#EXTINF:-1,IN: TAMIL | TAMIL BUSINESS TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/93042
-#EXTINF:-1,IN: TAMIL | TAMILVISION HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93043
-#EXTINF:-1,IN: TAMIL | TET HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93044
-#EXTINF:-1,IN: TAMIL | TOLLYWOOD MOVIES
-http://client.more-itv.com:8080/57ijhg/e46ujj/93045
-#EXTINF:-1,IN: TAMIL | VANAVIL PLUS
-http://client.more-itv.com:8080/57ijhg/e46ujj/93046
-#EXTINF:-1,IN: TAMIL | VASANTHAM TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/93047
-#EXTINF:-1,IN: TELGU | AP24X7 (NEWS)
-http://client.more-itv.com:8080/57ijhg/e46ujj/93048
-#EXTINF:-1,IN: TELGU | BHAKTHI TV (SPIRTUAL))
-http://client.more-itv.com:8080/57ijhg/e46ujj/93049
-#EXTINF:-1,IN: TELGU | BHARAT TODAY LIVE (NEWS)
-http://client.more-itv.com:8080/57ijhg/e46ujj/93050
-#EXTINF:-1,IN: TELGU | CVR ENGLISH
-http://client.more-itv.com:8080/57ijhg/e46ujj/93051
-#EXTINF:-1,IN: TELGU | CVR NEWS TELUGU
-http://client.more-itv.com:8080/57ijhg/e46ujj/93052
-#EXTINF:-1,IN: TELGU | CVR OM HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93053
-#EXTINF:-1,IN: TELGU | DD SAPTHAGIRI
-http://client.more-itv.com:8080/57ijhg/e46ujj/93054
-#EXTINF:-1,IN: TELGU | GEMINI TV FHD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93055
-#EXTINF:-1,IN: TELGU | GEMINI TV FHD (UK)
-http://client.more-itv.com:8080/57ijhg/e46ujj/93056
-#EXTINF:-1,IN: TELGU | GEMINI TV FHD (USA)
-http://client.more-itv.com:8080/57ijhg/e46ujj/93057
-#EXTINF:-1,IN: TELGU | NTV TELUGU HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93058
-#EXTINF:-1,IN: TELGU | PRIME9 NEWS HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93059
-#EXTINF:-1,IN: TELGU | SAKSHI TV (NEWS)
-http://client.more-itv.com:8080/57ijhg/e46ujj/93060
-#EXTINF:-1,IN: TELGU | SIRI BALAJI TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93061
-#EXTINF:-1,IN: TELGU | SVBCTTD HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/93062
-#EXTINF:-1,PK: 24 News
-http://client.more-itv.com:8080/57ijhg/e46ujj/15156
-#EXTINF:-1,PK: 92 NEws HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/15157
-#EXTINF:-1,PK: ARY News HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/15162
-#EXTINF:-1,PK: Dunya news
-http://client.more-itv.com:8080/57ijhg/e46ujj/15172
-#EXTINF:-1,PK: Express news
-http://client.more-itv.com:8080/57ijhg/e46ujj/15174
-#EXTINF:-1,PK: Geo Kahani
-http://client.more-itv.com:8080/57ijhg/e46ujj/15176
-#EXTINF:-1,PK: Geo TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/15181
-#EXTINF:-1,PK: News One
-http://client.more-itv.com:8080/57ijhg/e46ujj/15197
-#EXTINF:-1,PK: Samaa News
-http://client.more-itv.com:8080/57ijhg/e46ujj/55895
-#EXTINF:-1,PK: Dawn News
-http://client.more-itv.com:8080/57ijhg/e46ujj/55896
-#EXTINF:-1,PK: TV One
-http://client.more-itv.com:8080/57ijhg/e46ujj/55897
-#EXTINF:-1,PK: Aplus
-http://client.more-itv.com:8080/57ijhg/e46ujj/55898
-#EXTINF:-1,PK: 24 News
-http://client.more-itv.com:8080/57ijhg/e46ujj/55899
-#EXTINF:-1,PK: Khayber News
-http://client.more-itv.com:8080/57ijhg/e46ujj/55900
-#EXTINF:-1,PK: Pashto 1
-http://client.more-itv.com:8080/57ijhg/e46ujj/55901
-#EXTINF:-1,PK: City 42
-http://client.more-itv.com:8080/57ijhg/e46ujj/55902
-#EXTINF:-1,PK: Cartoon Network English
-http://client.more-itv.com:8080/57ijhg/e46ujj/55903
-#EXTINF:-1,PK: GNN
-http://client.more-itv.com:8080/57ijhg/e46ujj/55904
-#EXTINF:-1,PK: Express
-http://client.more-itv.com:8080/57ijhg/e46ujj/55905
-#EXTINF:-1,PK: ATV
-http://client.more-itv.com:8080/57ijhg/e46ujj/55906
-#EXTINF:-1,PK: Waseb TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/55907
-#EXTINF:-1,PK: Sindh TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/55908
-#EXTINF:-1,PK: PTV Global
-http://client.more-itv.com:8080/57ijhg/e46ujj/55909
-#EXTINF:-1,PK: Metro One
-http://client.more-itv.com:8080/57ijhg/e46ujj/55910
-#EXTINF:-1,PK: 8xm
-http://client.more-itv.com:8080/57ijhg/e46ujj/55911
-#EXTINF:-1,PK: A Plus
-http://client.more-itv.com:8080/57ijhg/e46ujj/55912
-#EXTINF:-1,PK: A plus ??
-http://client.more-itv.com:8080/57ijhg/e46ujj/55913
-#EXTINF:-1,PK: AAJ ENT
-http://client.more-itv.com:8080/57ijhg/e46ujj/55914
-#EXTINF:-1,PK: AAJ News
-http://client.more-itv.com:8080/57ijhg/e46ujj/55915
-#EXTINF:-1,PK: Apna
-http://client.more-itv.com:8080/57ijhg/e46ujj/55916
-#EXTINF:-1,PK: Ary Digital
-http://client.more-itv.com:8080/57ijhg/e46ujj/55917
-#EXTINF:-1,PK: Ary Digtali UK
-http://client.more-itv.com:8080/57ijhg/e46ujj/55918
-#EXTINF:-1,PK: Ary Digtali Usa.
-http://client.more-itv.com:8080/57ijhg/e46ujj/55919
-#EXTINF:-1,PK: Ary Music
-http://client.more-itv.com:8080/57ijhg/e46ujj/55920
-#EXTINF:-1,PK: Ary Musik
-http://client.more-itv.com:8080/57ijhg/e46ujj/55921
-#EXTINF:-1,PK: Ary QTV
-http://client.more-itv.com:8080/57ijhg/e46ujj/55922
-#EXTINF:-1,PK: Ary Zindagi
-http://client.more-itv.com:8080/57ijhg/e46ujj/55923
-#EXTINF:-1,PK: Ary Qtv
-http://client.more-itv.com:8080/57ijhg/e46ujj/55924
-#EXTINF:-1,PK: BOL TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/55925
-#EXTINF:-1,PK: Capital News
-http://client.more-itv.com:8080/57ijhg/e46ujj/55926
-#EXTINF:-1,PK: Channel Five
-http://client.more-itv.com:8080/57ijhg/e46ujj/55927
-#EXTINF:-1,PK: Dunya
-http://client.more-itv.com:8080/57ijhg/e46ujj/55928
-#EXTINF:-1,PK: ABB
-http://client.more-itv.com:8080/57ijhg/e46ujj/55929
-#EXTINF:-1,PK: Express Entertainment
-http://client.more-itv.com:8080/57ijhg/e46ujj/55930
-#EXTINF:-1,PK: Filmasia
-http://client.more-itv.com:8080/57ijhg/e46ujj/55931
-#EXTINF:-1,PK: Geo News
-http://client.more-itv.com:8080/57ijhg/e46ujj/55932
-#EXTINF:-1,PK: Geo Super
-http://client.more-itv.com:8080/57ijhg/e46ujj/55933
-#EXTINF:-1,PK: Geo Tez
-http://client.more-itv.com:8080/57ijhg/e46ujj/55934
-#EXTINF:-1,PK: Geo Tv
-http://client.more-itv.com:8080/57ijhg/e46ujj/55935
-#EXTINF:-1,PK: Hadi TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/55936
-#EXTINF:-1,PK: Ten Sports Pakistan
-http://client.more-itv.com:8080/57ijhg/e46ujj/55937
-#EXTINF:-1,PK: Hum Europe
-http://client.more-itv.com:8080/57ijhg/e46ujj/55938
-#EXTINF:-1,PK: Hum Masala
-http://client.more-itv.com:8080/57ijhg/e46ujj/55939
-#EXTINF:-1,PK: Hum Sitaray
-http://client.more-itv.com:8080/57ijhg/e46ujj/55940
-#EXTINF:-1,PK: HUM TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/55941
-#EXTINF:-1,PK: Hum.tv
-http://client.more-itv.com:8080/57ijhg/e46ujj/55942
-#EXTINF:-1,PK: Jalwa TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/55943
-#EXTINF:-1,PK: Khayber TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/55944
-#EXTINF:-1,PK: Khyber News
-http://client.more-itv.com:8080/57ijhg/e46ujj/55945
-#EXTINF:-1,PK: KTN TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/55946
-#EXTINF:-1,PK: Madani
-http://client.more-itv.com:8080/57ijhg/e46ujj/55947
-#EXTINF:-1,PK: Madani Channel
-http://client.more-itv.com:8080/57ijhg/e46ujj/55948
-#EXTINF:-1,PK: Madani TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/55949
-#EXTINF:-1,PK: Peace TV Urdu
-http://client.more-itv.com:8080/57ijhg/e46ujj/55950
-#EXTINF:-1,PK: PTV Home
-http://client.more-itv.com:8080/57ijhg/e46ujj/55951
-#EXTINF:-1,PK: PTV News
-http://client.more-itv.com:8080/57ijhg/e46ujj/55952
-#EXTINF:-1,PK: PTV Sport
-http://client.more-itv.com:8080/57ijhg/e46ujj/55953
-#EXTINF:-1,PK: Royal TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/55954
-#EXTINF:-1,PK: Roze News
-http://client.more-itv.com:8080/57ijhg/e46ujj/55955
-#EXTINF:-1,PK: Sindh News
-http://client.more-itv.com:8080/57ijhg/e46ujj/55956
-#EXTINF:-1,PK: Film World
-http://client.more-itv.com:8080/57ijhg/e46ujj/55957
-#EXTINF:-1,PK: TV One Global
-http://client.more-itv.com:8080/57ijhg/e46ujj/55958
-#EXTINF:-1,PK: URDU 1 E
-http://client.more-itv.com:8080/57ijhg/e46ujj/55959
-#EXTINF:-1,PK: Urdu TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/55960
-#EXTINF:-1,PK: Waqt News
-http://client.more-itv.com:8080/57ijhg/e46ujj/55961
-#EXTINF:-1,### ۩ South Africa TV ۩ ###
-http://client.more-itv.com:8080/57ijhg/e46ujj/15363
-#EXTINF:-1,AF: SAF | Super Sport 1 HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/11694
-#EXTINF:-1,AF: SAF | Super Sport 2 HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/11695
-#EXTINF:-1,AF: SAF | Super Sport 3 HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/11696
-#EXTINF:-1,AF: SAF | Super Sport 4 HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/11697
-#EXTINF:-1,AF: SAF | Super Sport 5 HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/11698
-#EXTINF:-1,AF: SAF | Super Sport 6 HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/11699
-#EXTINF:-1,AF: SAF | Super Sport 7 HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/11700
-#EXTINF:-1,AF: SAF | Super Sport 8 HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/11701
-#EXTINF:-1,AF: SAF | Super Sport 9 HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/11702
-#EXTINF:-1,AF: SAF | Super Sport 10 HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/11703
-#EXTINF:-1,AF: SAF | Super Sport 11 HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/11704
-#EXTINF:-1,AF: SAF | Super Sport 12 HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/11705
-#EXTINF:-1,AF: SAF | M-NET MOVIES ACTION PLUS | HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/104644
-#EXTINF:-1,AF: SAF | M-NET MOVIES ACTION | HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/104645
-#EXTINF:-1,AF: SAF | M-NET MOVIES ALL STARS | HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/104646
-#EXTINF:-1,AF: SAF | M-NET MOVIES PREMIERE | HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/104647
-#EXTINF:-1,AF: SAF | M-NET MOVIES SMILE | HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/104648
-#EXTINF:-1,AF: SAF | M-NET PLUS 1 | HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/104649
-#EXTINF:-1,AF: SAF | M-NET | HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/104650
-#EXTINF:-1,AF: SAF | Africa Magic Family
-http://client.more-itv.com:8080/57ijhg/e46ujj/104651
-#EXTINF:-1,AF: SAF | Africa Magic Urban
-http://client.more-itv.com:8080/57ijhg/e46ujj/104652
-#EXTINF:-1,AF: SAF | AfricaMagic Epic
-http://client.more-itv.com:8080/57ijhg/e46ujj/104653
-#EXTINF:-1,AF: SAF | BBC BRIT
-http://client.more-itv.com:8080/57ijhg/e46ujj/104654
-#EXTINF:-1,AF: SAF | BBC EARTH
-http://client.more-itv.com:8080/57ijhg/e46ujj/104655
-#EXTINF:-1,AF: SAF | BBC FIRST
-http://client.more-itv.com:8080/57ijhg/e46ujj/104656
-#EXTINF:-1,AF: SAF | BBC LIFESTYLE
-http://client.more-itv.com:8080/57ijhg/e46ujj/104657
-#EXTINF:-1,AF: SAF | Cape Town TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104658
-#EXTINF:-1,AF: SAF | Cartoon Network
-http://client.more-itv.com:8080/57ijhg/e46ujj/104659
-#EXTINF:-1,AF: SAF | CNBC Africa
-http://client.more-itv.com:8080/57ijhg/e46ujj/104660
-#EXTINF:-1,AF: SAF | Comedy Central
-http://client.more-itv.com:8080/57ijhg/e46ujj/104661
-#EXTINF:-1,AF: SAF | Daystar
-http://client.more-itv.com:8080/57ijhg/e46ujj/104662
-#EXTINF:-1,AF: SAF | Discovery Channel
-http://client.more-itv.com:8080/57ijhg/e46ujj/104663
-#EXTINF:-1,AF: SAF | Discovery Family
-http://client.more-itv.com:8080/57ijhg/e46ujj/104664
-#EXTINF:-1,AF: SAF | Dish on TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104665
-#EXTINF:-1,AF: SAF | Disney Channel
-http://client.more-itv.com:8080/57ijhg/e46ujj/104666
-#EXTINF:-1,AF: SAF | Disney XD
-http://client.more-itv.com:8080/57ijhg/e46ujj/104667
-#EXTINF:-1,AF: SAF | Dumisa
-http://client.more-itv.com:8080/57ijhg/e46ujj/104668
-#EXTINF:-1,AF: SAF | eMovies
-http://client.more-itv.com:8080/57ijhg/e46ujj/104669
-#EXTINF:-1,AF: SAF | eMovies Extra
-http://client.more-itv.com:8080/57ijhg/e46ujj/104670
-#EXTINF:-1,AF: SAF | eNCA
-http://client.more-itv.com:8080/57ijhg/e46ujj/104671
-#EXTINF:-1,AF: SAF | Fashion One
-http://client.more-itv.com:8080/57ijhg/e46ujj/104672
-#EXTINF:-1,AF: SAF | FOX
-http://client.more-itv.com:8080/57ijhg/e46ujj/104673
-#EXTINF:-1,AF: SAF | FOX Life
-http://client.more-itv.com:8080/57ijhg/e46ujj/104674
-#EXTINF:-1,AF: SAF | Ginx eSports TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104675
-#EXTINF:-1,AF: SAF | HISTORY
-http://client.more-itv.com:8080/57ijhg/e46ujj/104676
-#EXTINF:-1,AF: SAF | Investigation Discovery
-http://client.more-itv.com:8080/57ijhg/e46ujj/104677
-#EXTINF:-1,AF: SAF | KYKNET
-http://client.more-itv.com:8080/57ijhg/e46ujj/104678
-#EXTINF:-1,AF: SAF | KYKNET &amp; KIE
-http://client.more-itv.com:8080/57ijhg/e46ujj/104679
-#EXTINF:-1,AF: SAF | M-NET
-http://client.more-itv.com:8080/57ijhg/e46ujj/104680
-#EXTINF:-1,AF: SAF | M-NET CITY
-http://client.more-itv.com:8080/57ijhg/e46ujj/104681
-#EXTINF:-1,AF: SAF | M-NET MOVIES ACTION
-http://client.more-itv.com:8080/57ijhg/e46ujj/104682
-#EXTINF:-1,AF: SAF | M-NET MOVIES ALL STARS
-http://client.more-itv.com:8080/57ijhg/e46ujj/104683
-#EXTINF:-1,AF: SAF | M-NET MOVIES PREMIERE
-http://client.more-itv.com:8080/57ijhg/e46ujj/104684
-#EXTINF:-1,AF: SAF | M-NET MOVIES SMILE
-http://client.more-itv.com:8080/57ijhg/e46ujj/104685
-#EXTINF:-1,AF: SAF | M-NET MOVIES ZONE
-http://client.more-itv.com:8080/57ijhg/e46ujj/104686
-#EXTINF:-1,AF: SAF | M-Net Plus 1
-http://client.more-itv.com:8080/57ijhg/e46ujj/104687
-#EXTINF:-1,AF: SAF | MTV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104688
-#EXTINF:-1,AF: SAF | Mzansi Magic
-http://client.more-itv.com:8080/57ijhg/e46ujj/104689
-#EXTINF:-1,AF: SAF | Mzansi Magic Music
-http://client.more-itv.com:8080/57ijhg/e46ujj/104690
-#EXTINF:-1,AF: SAF | National Geographic
-http://client.more-itv.com:8080/57ijhg/e46ujj/104691
-#EXTINF:-1,AF: SAF | National Geographic WILD
-http://client.more-itv.com:8080/57ijhg/e46ujj/104692
-#EXTINF:-1,AF: SAF | Newzroom Afrika
-http://client.more-itv.com:8080/57ijhg/e46ujj/104693
-#EXTINF:-1,AF: SAF | Nickelodeon
-http://client.more-itv.com:8080/57ijhg/e46ujj/104694
-#EXTINF:-1,AF: SAF | Real Time
-http://client.more-itv.com:8080/57ijhg/e46ujj/104695
-#EXTINF:-1,AF: SAF | ROK
-http://client.more-itv.com:8080/57ijhg/e46ujj/104696
-#EXTINF:-1,AF: SAF | SABC 1
-http://client.more-itv.com:8080/57ijhg/e46ujj/104697
-#EXTINF:-1,AF: SAF | SABC 3
-http://client.more-itv.com:8080/57ijhg/e46ujj/104698
-#EXTINF:-1,AF: SAF | SABC News
-http://client.more-itv.com:8080/57ijhg/e46ujj/104699
-#EXTINF:-1,AF: SAF | SOUNDCITY
-http://client.more-itv.com:8080/57ijhg/e46ujj/104700
-#EXTINF:-1,AF: SAF | Spice TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104701
-#EXTINF:-1,AF: SAF | Star Life
-http://client.more-itv.com:8080/57ijhg/e46ujj/104702
-#EXTINF:-1,AF: SAF | Studio Universal
-http://client.more-itv.com:8080/57ijhg/e46ujj/104703
-#EXTINF:-1,AF: SAF | SundanceTV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104704
-#EXTINF:-1,AF: SAF | TNT Africa
-http://client.more-itv.com:8080/57ijhg/e46ujj/104705
-#EXTINF:-1,AF: SAF | TRACE Africa
-http://client.more-itv.com:8080/57ijhg/e46ujj/104706
-#EXTINF:-1,AF: SAF | TRACE Gospel
-http://client.more-itv.com:8080/57ijhg/e46ujj/104707
-#EXTINF:-1,AF: SAF | TRACE Urban
-http://client.more-itv.com:8080/57ijhg/e46ujj/104708
-#EXTINF:-1,AF: SAF | Travel Channel
-http://client.more-itv.com:8080/57ijhg/e46ujj/104709
-#EXTINF:-1,AF: SAF | Universal TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104710
-#EXTINF:-1,AF: SAF | VIA
-http://client.more-itv.com:8080/57ijhg/e46ujj/104711
-#EXTINF:-1,AF: SAF | WWE CHANNEL
-http://client.more-itv.com:8080/57ijhg/e46ujj/104712
-#EXTINF:-1,AF: SAF | Zee World
-http://client.more-itv.com:8080/57ijhg/e46ujj/104713
-#EXTINF:-1,AF: SAF | Rwanda TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104714
-#EXTINF:-1,### ۩ ANGOLA ۩ ###
-http://client.more-itv.com:8080/57ijhg/e46ujj/104715
-#EXTINF:-1,AF: ANGOLA| ET
-http://client.more-itv.com:8080/57ijhg/e46ujj/104716
-#EXTINF:-1,AF: ANGOLA| TPA INTERNATIONAL*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104717
-#EXTINF:-1,### ۩ BENIN ۩ ###
-http://client.more-itv.com:8080/57ijhg/e46ujj/104718
-#EXTINF:-1,AF: BENIN| ORTB
-http://client.more-itv.com:8080/57ijhg/e46ujj/104719
-#EXTINF:-1,AF: BENIN| ORTB*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104720
-#EXTINF:-1,AF: BENIN| Sikka TV Benin
-http://client.more-itv.com:8080/57ijhg/e46ujj/104721
-#EXTINF:-1,AF: BENIN| TELESUD
-http://client.more-itv.com:8080/57ijhg/e46ujj/104722
-#EXTINF:-1,AF: BURKINAFASO| IMPACT TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104723
-#EXTINF:-1,AF: BURKINAFASO| RTB
-http://client.more-itv.com:8080/57ijhg/e46ujj/104724
-#EXTINF:-1,AF: BURKINAFASO| RTB*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104725
-#EXTINF:-1,AF: BURKINAFASO| RTB**
-http://client.more-itv.com:8080/57ijhg/e46ujj/104726
-#EXTINF:-1,### ۩ CAMEROUN ۩ ###
-http://client.more-itv.com:8080/57ijhg/e46ujj/104727
-#EXTINF:-1,AF: CAMAROON| AFRICA NEWS
-http://client.more-itv.com:8080/57ijhg/e46ujj/104728
-#EXTINF:-1,AF: CAMAROON| AFRICA NEWS*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104729
-#EXTINF:-1,AF: CAMAROON| AFRICA NEWS**
-http://client.more-itv.com:8080/57ijhg/e46ujj/104730
-#EXTINF:-1,AF: CAMAROON| AFRICA NEWS***
-http://client.more-itv.com:8080/57ijhg/e46ujj/104731
-#EXTINF:-1,AF: CAMAROON| AFRIQUE Mï¿½?
-http://client.more-itv.com:8080/57ijhg/e46ujj/104732
-#EXTINF:-1,AF: CAMAROON| CANAL2
-http://client.more-itv.com:8080/57ijhg/e46ujj/104733
-#EXTINF:-1,AF: CAMAROON| CANAL2 INFO
-http://client.more-itv.com:8080/57ijhg/e46ujj/104734
-#EXTINF:-1,AF: CAMAROON| CANAL2*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104735
-#EXTINF:-1,AF: CAMAROON| CR TV*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104736
-#EXTINF:-1,AF: CAMAROON| CR TV**
-http://client.more-itv.com:8080/57ijhg/e46ujj/104737
-#EXTINF:-1,AF: CAMAROON| VISION4  TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104738
-#EXTINF:-1,AF: CAMAROON| VISION4  TV*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104739
-#EXTINF:-1,AF: CAPEVERDE| TCV CABO
-http://client.more-itv.com:8080/57ijhg/e46ujj/104740
-#EXTINF:-1,### ۩ CONGO ۩ ###
-http://client.more-itv.com:8080/57ijhg/e46ujj/104741
-#EXTINF:-1,AF: CONGO| RTNC
-http://client.more-itv.com:8080/57ijhg/e46ujj/104742
-#EXTINF:-1,AF: CONGO| TELE CONGO
-http://client.more-itv.com:8080/57ijhg/e46ujj/104743
-#EXTINF:-1,AF: CONGO| TELE50
-http://client.more-itv.com:8080/57ijhg/e46ujj/104744
-#EXTINF:-1,AF: CONGO| TV CONGO
-http://client.more-itv.com:8080/57ijhg/e46ujj/104745
-#EXTINF:-1,### ۩COTE DIVOIRE ۩ ###
-http://client.more-itv.com:8080/57ijhg/e46ujj/104746
-#EXTINF:-1,AF: COTEDIVOIRE| Benie TV Cote d'Ivoire
-http://client.more-itv.com:8080/57ijhg/e46ujj/104747
-#EXTINF:-1,AF: COTEDIVOIRE| RTI1
-http://client.more-itv.com:8080/57ijhg/e46ujj/104748
-#EXTINF:-1,AF: COTEDIVOIRE| RTI1*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104749
-#EXTINF:-1,AF: COTEDIVOIRE| RTI2*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104750
-#EXTINF:-1,### ۩ ERITREA ۩ ###
-http://client.more-itv.com:8080/57ijhg/e46ujj/104751
-#EXTINF:-1,AF: ERITREA| ERI TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104752
-#EXTINF:-1,AF: ERITREA| ERI TV*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104753
-#EXTINF:-1,##### AF | ETHIOPIA #####
-http://client.more-itv.com:8080/57ijhg/e46ujj/104754
-#EXTINF:-1,AF: ETHIOPIA| CJ TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104755
-#EXTINF:-1,AF: ETHIOPIA| ETV NEWS (EBC1)
-http://client.more-itv.com:8080/57ijhg/e46ujj/104756
-#EXTINF:-1,AF: ETHIOPIA| ETV NEWS (EBC1)*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104757
-#EXTINF:-1,AF: ETHIOPIA| NAHOO
-http://client.more-itv.com:8080/57ijhg/e46ujj/104758
-#EXTINF:-1,### ۩ GENERAL ۩ ###
-http://client.more-itv.com:8080/57ijhg/e46ujj/104759
-#EXTINF:-1,AF: GENERAL| AFRICA TV1
-http://client.more-itv.com:8080/57ijhg/e46ujj/104760
-#EXTINF:-1,AF: GENERAL| AFRICA TV1*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104761
-#EXTINF:-1,AF: GENERAL| AFRICA TV2
-http://client.more-itv.com:8080/57ijhg/e46ujj/104762
-#EXTINF:-1,AF: GENERAL| AFRICA TV2*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104763
-#EXTINF:-1,AF: GENERAL| AFRICA TV3
-http://client.more-itv.com:8080/57ijhg/e46ujj/104764
-#EXTINF:-1,AF: GENERAL| AFRICA TV3*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104765
-#EXTINF:-1,AF: GENERAL| AFRICA24
-http://client.more-itv.com:8080/57ijhg/e46ujj/104766
-#EXTINF:-1,AF: GENERAL| AFRICA24*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104767
-#EXTINF:-1,AF: GENERAL| ARISE NEWS
-http://client.more-itv.com:8080/57ijhg/e46ujj/104768
-#EXTINF:-1,AF: GENERAL| ARISE NEWS*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104769
-#EXTINF:-1,AF: GENERAL| BULSHO
-http://client.more-itv.com:8080/57ijhg/e46ujj/104770
-#EXTINF:-1,AF: GENERAL| COMEDY CHANNEL
-http://client.more-itv.com:8080/57ijhg/e46ujj/104771
-#EXTINF:-1,AF: GENERAL| Kalsan TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104772
-#EXTINF:-1,AF: GENERAL| MY COMEDY
-http://client.more-itv.com:8080/57ijhg/e46ujj/104773
-#EXTINF:-1,AF: GENERAL| Neelain Sport
-http://client.more-itv.com:8080/57ijhg/e46ujj/104774
-#EXTINF:-1,AF: GENERAL| NOVELAS TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104775
-#EXTINF:-1,AF: GENERAL| RTP AFRICA
-http://client.more-itv.com:8080/57ijhg/e46ujj/104776
-#EXTINF:-1,AF: GENERAL| TV5 MONDE
-http://client.more-itv.com:8080/57ijhg/e46ujj/104777
-#EXTINF:-1,AF: GENERAL| TV5 MONDE*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104778
-#EXTINF:-1,### ۩ GHANA ۩ ###
-http://client.more-itv.com:8080/57ijhg/e46ujj/104779
-#EXTINF:-1,AF: GHANA| ADOM TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104780
-#EXTINF:-1,AF: GHANA| BEN
-http://client.more-itv.com:8080/57ijhg/e46ujj/104781
-#EXTINF:-1,AF: GHANA| BEN*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104782
-#EXTINF:-1,AF: GHANA| CNBC AFRICA*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104783
-#EXTINF:-1,AF: GHANA| FuFu Kitchen
-http://client.more-itv.com:8080/57ijhg/e46ujj/104784
-#EXTINF:-1,AF: GHANA| GBC24
-http://client.more-itv.com:8080/57ijhg/e46ujj/104785
-#EXTINF:-1,AF: GHANA| GBC24*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104786
-#EXTINF:-1,AF: GHANA| GTV*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104787
-#EXTINF:-1,AF: GHANA| Hope Channel TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104788
-#EXTINF:-1,AF: GHANA| JOY NEWS
-http://client.more-itv.com:8080/57ijhg/e46ujj/104789
-#EXTINF:-1,AF: GHANA| JOY PRIME
-http://client.more-itv.com:8080/57ijhg/e46ujj/104790
-#EXTINF:-1,AF: GHANA| JOY PRIME*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104791
-#EXTINF:-1,AF: GHANA| RTV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104792
-#EXTINF:-1,AF: GHANA| RTV*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104793
-#EXTINF:-1,AF: GHANA| TV3 GHANA
-http://client.more-itv.com:8080/57ijhg/e46ujj/104794
-#EXTINF:-1,AF: GHANA| UTV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104795
-#EXTINF:-1,### ۩ GUINEE CONAKRY ۩ ###
-http://client.more-itv.com:8080/57ijhg/e46ujj/104796
-#EXTINF:-1,AF: GUINEE| RTG
-http://client.more-itv.com:8080/57ijhg/e46ujj/104797
-#EXTINF:-1,AF: GUINEE| RTG*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104798
-#EXTINF:-1,AF: GUINEE| WES AFRICA TV*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104799
-#EXTINF:-1,### ۩ KENYA ۩ ###
-http://client.more-itv.com:8080/57ijhg/e46ujj/104800
-#EXTINF:-1,AF: KENYA| 24KENYA
-http://client.more-itv.com:8080/57ijhg/e46ujj/104801
-#EXTINF:-1,AF: KENYA| AL-HUD TV Kenya
-http://client.more-itv.com:8080/57ijhg/e46ujj/104802
-#EXTINF:-1,AF: KENYA| Border TV Kenya
-http://client.more-itv.com:8080/57ijhg/e46ujj/104803
-#EXTINF:-1,AF: KENYA| Citizen TV Kenya
-http://client.more-itv.com:8080/57ijhg/e46ujj/104804
-#EXTINF:-1,AF: KENYA| EBS TV Ethiopia
-http://client.more-itv.com:8080/57ijhg/e46ujj/104805
-#EXTINF:-1,AF: KENYA| FARMERS TV Kenya
-http://client.more-itv.com:8080/57ijhg/e46ujj/104806
-#EXTINF:-1,AF: KENYA| Gikuyu TV Kenya
-http://client.more-itv.com:8080/57ijhg/e46ujj/104807
-#EXTINF:-1,AF: KENYA| INOORO TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104808
-#EXTINF:-1,AF: KENYA| K24
-http://client.more-itv.com:8080/57ijhg/e46ujj/104809
-#EXTINF:-1,AF: KENYA| K24*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104810
-#EXTINF:-1,AF: KENYA| Kameme TV Kenya
-http://client.more-itv.com:8080/57ijhg/e46ujj/104811
-#EXTINF:-1,AF: KENYA| KBC  1 Kenya*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104812
-#EXTINF:-1,AF: KENYA| KBC1 Kenya
-http://client.more-itv.com:8080/57ijhg/e46ujj/104813
-#EXTINF:-1,AF: KENYA| KTN BURUDANI Kenya
-http://client.more-itv.com:8080/57ijhg/e46ujj/104814
-#EXTINF:-1,AF: KENYA| KTN Home Kenya
-http://client.more-itv.com:8080/57ijhg/e46ujj/104815
-#EXTINF:-1,AF: KENYA| LTN TV Kenya
-http://client.more-itv.com:8080/57ijhg/e46ujj/104816
-#EXTINF:-1,AF: KENYA| NTV LIVE
-http://client.more-itv.com:8080/57ijhg/e46ujj/104817
-#EXTINF:-1,AF: KENYA| NTV LIVE*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104818
-#EXTINF:-1,AF: KENYA| NURU TV Kenya
-http://client.more-itv.com:8080/57ijhg/e46ujj/104819
-#EXTINF:-1,AF: KENYA| Triple P Kenya
-http://client.more-itv.com:8080/57ijhg/e46ujj/104820
-#EXTINF:-1,### ۩ MALI ۩ ###
-http://client.more-itv.com:8080/57ijhg/e46ujj/104821
-#EXTINF:-1,AF: MALI| AFRICABLE
-http://client.more-itv.com:8080/57ijhg/e46ujj/104822
-#EXTINF:-1,AF: MALI| AFRICABLE*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104823
-#EXTINF:-1,AF: MALI| M7
-http://client.more-itv.com:8080/57ijhg/e46ujj/104824
-#EXTINF:-1,AF: MALI| ORTM*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104825
-#EXTINF:-1,### ۩ MOZAMBIQUE ۩ ###
-http://client.more-itv.com:8080/57ijhg/e46ujj/104826
-#EXTINF:-1,AF: MOZAMBIQUE| FAM TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104827
-#EXTINF:-1,AF: MOZAMBIQUE| TVM1
-http://client.more-itv.com:8080/57ijhg/e46ujj/104828
-#EXTINF:-1,AF: MOZAMBIQUE| TVM1*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104829
-#EXTINF:-1,AF: MOZAMBIQUE| TVM2
-http://client.more-itv.com:8080/57ijhg/e46ujj/104830
-#EXTINF:-1,AF: MOZAMBIQUE| TVMANA
-http://client.more-itv.com:8080/57ijhg/e46ujj/104831
-#EXTINF:-1,AF: MUSIC| AFRO MUSIC
-http://client.more-itv.com:8080/57ijhg/e46ujj/104832
-#EXTINF:-1,AF: MUSIC| BBLACK CLASSIK
-http://client.more-itv.com:8080/57ijhg/e46ujj/104833
-#EXTINF:-1,AF: MUSIC| TRACE AFRICA
-http://client.more-itv.com:8080/57ijhg/e46ujj/104834
-#EXTINF:-1,AF: MUSIC| TRACE AFRICA*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104835
-#EXTINF:-1,AF: MUSIC| TRACE AFRICA**
-http://client.more-itv.com:8080/57ijhg/e46ujj/104836
-#EXTINF:-1,AF: MUSIC| TRACE GOSPEL
-http://client.more-itv.com:8080/57ijhg/e46ujj/104837
-#EXTINF:-1,AF: MUSIC| TRACE GOSPEL*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104838
-#EXTINF:-1,AF: MUSIC| TRACE MIZKI
-http://client.more-itv.com:8080/57ijhg/e46ujj/104839
-#EXTINF:-1,AF: MUSIC| TRACE MIZKI*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104840
-#EXTINF:-1,AF: MUSIC| TRACE NAIJA
-http://client.more-itv.com:8080/57ijhg/e46ujj/104841
-#EXTINF:-1,AF: MUSIC| TRACE NAIJA*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104842
-#EXTINF:-1,AF: MUSIC| TRACE SPORTS STARTS
-http://client.more-itv.com:8080/57ijhg/e46ujj/104843
-#EXTINF:-1,AF: MUSIC| TRACE SPORTS STARTS*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104844
-#EXTINF:-1,AF: MUSIC| TRACE TOCA
-http://client.more-itv.com:8080/57ijhg/e46ujj/104845
-#EXTINF:-1,AF: MUSIC| TRACE TOCA*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104846
-#EXTINF:-1,AF: MUSIC| TRACE TROPICAL
-http://client.more-itv.com:8080/57ijhg/e46ujj/104847
-#EXTINF:-1,AF: MUSIC| TRACE TROPICAL*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104848
-#EXTINF:-1,AF: MUSIC| TRACE URBAN
-http://client.more-itv.com:8080/57ijhg/e46ujj/104849
-#EXTINF:-1,AF: MUSIC| TRACE URBAN*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104850
-#EXTINF:-1,### ۩ NIGERIA ۩ ###
-http://client.more-itv.com:8080/57ijhg/e46ujj/104851
-#EXTINF:-1,AF: NIGERIA| ABN
-http://client.more-itv.com:8080/57ijhg/e46ujj/104852
-#EXTINF:-1,AF: NIGERIA| AIT
-http://client.more-itv.com:8080/57ijhg/e46ujj/104853
-#EXTINF:-1,AF: NIGERIA| Ait Inter Nigeria
-http://client.more-itv.com:8080/57ijhg/e46ujj/104854
-#EXTINF:-1,AF: NIGERIA| AIT NIGERIA
-http://client.more-itv.com:8080/57ijhg/e46ujj/104855
-#EXTINF:-1,AF: NIGERIA| BIAFRA TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104856
-#EXTINF:-1,AF: NIGERIA| BRIDE TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104857
-#EXTINF:-1,AF: NIGERIA| CHANNELS 24
-http://client.more-itv.com:8080/57ijhg/e46ujj/104858
-#EXTINF:-1,AF: NIGERIA| CHANNELS TELEVISION
-http://client.more-itv.com:8080/57ijhg/e46ujj/104859
-#EXTINF:-1,AF: NIGERIA| CHANNELS TELEVISION*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104860
-#EXTINF:-1,AF: NIGERIA| CHANNELS TELEVISION**
-http://client.more-itv.com:8080/57ijhg/e46ujj/104861
-#EXTINF:-1,AF: NIGERIA| DOVE TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104862
-#EXTINF:-1,AF: NIGERIA| DUNAMIS TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104863
-#EXTINF:-1,AF: NIGERIA| EBRU AFRICA
-http://client.more-itv.com:8080/57ijhg/e46ujj/104864
-#EXTINF:-1,AF: NIGERIA| EMMANUEL TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104865
-#EXTINF:-1,AF: NIGERIA| Espace TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104866
-#EXTINF:-1,AF: NIGERIA| FASHION TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104867
-#EXTINF:-1,AF: NIGERIA| GN TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104868
-#EXTINF:-1,AF: NIGERIA| LIBERATION
-http://client.more-itv.com:8080/57ijhg/e46ujj/104869
-#EXTINF:-1,AF: NIGERIA| LOVE WORLD
-http://client.more-itv.com:8080/57ijhg/e46ujj/104870
-#EXTINF:-1,AF: NIGERIA| Natural TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104871
-#EXTINF:-1,AF: NIGERIA| NOLLYWOOD FRENCH
-http://client.more-itv.com:8080/57ijhg/e46ujj/104872
-#EXTINF:-1,AF: NIGERIA| NOLLYWOOD FRENCH*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104873
-#EXTINF:-1,AF: NIGERIA| NOLLYWOOD MOVIE
-http://client.more-itv.com:8080/57ijhg/e46ujj/104874
-#EXTINF:-1,AF: NIGERIA| NTA LIVE TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104875
-#EXTINF:-1,AF: NIGERIA| NTA NEWS
-http://client.more-itv.com:8080/57ijhg/e46ujj/104876
-#EXTINF:-1,AF: NIGERIA| RAVE TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104877
-#EXTINF:-1,AF: NIGERIA| ROK TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104878
-#EXTINF:-1,AF: NIGERIA| ROK TV*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104879
-#EXTINF:-1,AF: NIGERIA| ROK TV**
-http://client.more-itv.com:8080/57ijhg/e46ujj/104880
-#EXTINF:-1,AF: NIGERIA| SALVATION TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104881
-#EXTINF:-1,AF: NIGERIA| TV CONTINENTAL
-http://client.more-itv.com:8080/57ijhg/e46ujj/104882
-#EXTINF:-1,AF: NIGERIA| TV CONTINENTAL*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104883
-#EXTINF:-1,AF: NIGERIA| TVC
-http://client.more-itv.com:8080/57ijhg/e46ujj/104884
-#EXTINF:-1,AF: NIGERIA| TVC NEWS
-http://client.more-itv.com:8080/57ijhg/e46ujj/104885
-#EXTINF:-1,AF: NIGERIA| TVC NEWS*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104886
-#EXTINF:-1,AF: NIGERIA| TVC*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104887
-#EXTINF:-1,AF: NIGERIA| VOX AFRICA
-http://client.more-itv.com:8080/57ijhg/e46ujj/104888
-#EXTINF:-1,##### AF | ROWANDA #####
-http://client.more-itv.com:8080/57ijhg/e46ujj/104889
-#EXTINF:-1,AF: ROWANDA| RTV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104890
-#EXTINF:-1,### ۩ SENEGAL ۩ ###
-http://client.more-itv.com:8080/57ijhg/e46ujj/104891
-#EXTINF:-1,AF: SENEGAL| 2STV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104892
-#EXTINF:-1,AF: SENEGAL| 2STV*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104893
-#EXTINF:-1,AF: SENEGAL| 7TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104894
-#EXTINF:-1,AF: SENEGAL| A2I TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104895
-#EXTINF:-1,AF: SENEGAL| A2I TV MUSIC
-http://client.more-itv.com:8080/57ijhg/e46ujj/104896
-#EXTINF:-1,AF: SENEGAL| A2I TV RELIGION
-http://client.more-itv.com:8080/57ijhg/e46ujj/104897
-#EXTINF:-1,AF: SENEGAL| A2I TV*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104898
-#EXTINF:-1,AF: SENEGAL| AFRICA7 TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104899
-#EXTINF:-1,AF: SENEGAL| BICHRI TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104900
-#EXTINF:-1,AF: SENEGAL| D24
-http://client.more-itv.com:8080/57ijhg/e46ujj/104901
-#EXTINF:-1,AF: SENEGAL| DIASPORA 24 Senegal
-http://client.more-itv.com:8080/57ijhg/e46ujj/104902
-#EXTINF:-1,AF: SENEGAL| DTV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104903
-#EXTINF:-1,AF: SENEGAL| DTV*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104904
-#EXTINF:-1,AF: SENEGAL| GALAXY TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104905
-#EXTINF:-1,AF: SENEGAL| LAMP FALL TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104906
-#EXTINF:-1,AF: SENEGAL| MOURCHID TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104907
-#EXTINF:-1,AF: SENEGAL| MOURCHID TV*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104908
-#EXTINF:-1,AF: SENEGAL| RTF TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104909
-#EXTINF:-1,AF: SENEGAL| RTS1
-http://client.more-itv.com:8080/57ijhg/e46ujj/104910
-#EXTINF:-1,AF: SENEGAL| RTS1*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104911
-#EXTINF:-1,AF: SENEGAL| RTS2*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104912
-#EXTINF:-1,AF: SENEGAL| SEN TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104913
-#EXTINF:-1,AF: SENEGAL| SEN TV*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104914
-#EXTINF:-1,AF: SENEGAL| TFM
-http://client.more-itv.com:8080/57ijhg/e46ujj/104915
-#EXTINF:-1,AF: SENEGAL| TFM RELIGIONS
-http://client.more-itv.com:8080/57ijhg/e46ujj/104916
-#EXTINF:-1,AF: SENEGAL| TFM RELIGIONS*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104917
-#EXTINF:-1,AF: SENEGAL| TFM*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104918
-#EXTINF:-1,AF: SENEGAL| WALF
-http://client.more-itv.com:8080/57ijhg/e46ujj/104919
-#EXTINF:-1,AF: SENEGAL| WALF*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104920
-#EXTINF:-1,### ۩ SOMALIA ۩ ###
-http://client.more-itv.com:8080/57ijhg/e46ujj/104921
-#EXTINF:-1,AF: SOMALIA| DAYAX
-http://client.more-itv.com:8080/57ijhg/e46ujj/104922
-#EXTINF:-1,AF: SOMALIA| ESTV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104923
-#EXTINF:-1,AF: SOMALIA| GALMUDUG TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104924
-#EXTINF:-1,AF: SOMALIA| GALMUDUG TV*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104925
-#EXTINF:-1,AF: SOMALIA| HORN CABLE
-http://client.more-itv.com:8080/57ijhg/e46ujj/104926
-#EXTINF:-1,AF: SOMALIA| HORN CABLE*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104927
-#EXTINF:-1,AF: SOMALIA| HORN CABLE**
-http://client.more-itv.com:8080/57ijhg/e46ujj/104928
-#EXTINF:-1,AF: SOMALIA| JUBBA LAND
-http://client.more-itv.com:8080/57ijhg/e46ujj/104929
-#EXTINF:-1,AF: SOMALIA| KALSAN TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104930
-#EXTINF:-1,AF: SOMALIA| KALSAN TV*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104931
-#EXTINF:-1,AF: SOMALIA| KALSAN TV**
-http://client.more-itv.com:8080/57ijhg/e46ujj/104932
-#EXTINF:-1,AF: SOMALIA| NATIONAL
-http://client.more-itv.com:8080/57ijhg/e46ujj/104933
-#EXTINF:-1,AF: SOMALIA| NATIONAL*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104934
-#EXTINF:-1,AF: SOMALIA| NATIONAL**
-http://client.more-itv.com:8080/57ijhg/e46ujj/104935
-#EXTINF:-1,AF: SOMALIA| PLTV Somalia
-http://client.more-itv.com:8080/57ijhg/e46ujj/104936
-#EXTINF:-1,AF: SOMALIA| PUNTLAND
-http://client.more-itv.com:8080/57ijhg/e46ujj/104937
-#EXTINF:-1,AF: SOMALIA| PUNTLAND
-http://client.more-itv.com:8080/57ijhg/e46ujj/104938
-#EXTINF:-1,AF: SOMALIA| PUNTLAND*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104939
-#EXTINF:-1,AF: SOMALIA| SAAB TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104940
-#EXTINF:-1,AF: SOMALIA| SBC
-http://client.more-itv.com:8080/57ijhg/e46ujj/104941
-#EXTINF:-1,AF: SOMALIA| SBC*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104942
-#EXTINF:-1,AF: SOMALIA| SBC**
-http://client.more-itv.com:8080/57ijhg/e46ujj/104943
-#EXTINF:-1,AF: SOMALIA| SBC***
-http://client.more-itv.com:8080/57ijhg/e46ujj/104944
-#EXTINF:-1,AF: SOMALIA| SNTV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104945
-#EXTINF:-1,AF: SOMALIA| SNTV*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104946
-#EXTINF:-1,AF: SOMALIA| SNTV**
-http://client.more-itv.com:8080/57ijhg/e46ujj/104947
-#EXTINF:-1,AF: SOMALIA| SOMALI CABLE
-http://client.more-itv.com:8080/57ijhg/e46ujj/104948
-#EXTINF:-1,AF: SOMALIA| SOMALI CABLE*
-http://client.more-itv.com:8080/57ijhg/e46ujj/104949
-#EXTINF:-1,AF: SOMALIA| SOMALI CABLE**
-http://client.more-itv.com:8080/57ijhg/e46ujj/104950
-#EXTINF:-1,AF: SOMALIA| UNIVERSAL TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/104951
-#EXTINF:-1,AF: UGANDA| NTV**
-http://client.more-itv.com:8080/57ijhg/e46ujj/104952
-#EXTINF:-1,AF: VOX Africa
-http://client.more-itv.com:8080/57ijhg/e46ujj/55409
-#EXTINF:-1,AF: Vision 4
-http://client.more-itv.com:8080/57ijhg/e46ujj/55410
-#EXTINF:-1,AF: TV5 AfriqueMonde
-http://client.more-itv.com:8080/57ijhg/e46ujj/55411
-#EXTINF:-1,AF: TM2 Mali
-http://client.more-itv.com:8080/57ijhg/e46ujj/55412
-#EXTINF:-1,AF: Tele Congo
-http://client.more-itv.com:8080/57ijhg/e46ujj/55413
-#EXTINF:-1,AF: RTI2
-http://client.more-itv.com:8080/57ijhg/e46ujj/55414
-#EXTINF:-1,AF: RTB
-http://client.more-itv.com:8080/57ijhg/e46ujj/55415
-#EXTINF:-1,AF: QTV Gambia
-http://client.more-itv.com:8080/57ijhg/e46ujj/55416
-#EXTINF:-1,AF: ORTM
-http://client.more-itv.com:8080/57ijhg/e46ujj/55417
-#EXTINF:-1,AF: ORTB Benin
-http://client.more-itv.com:8080/57ijhg/e46ujj/55418
-#EXTINF:-1,AF: Novelas TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/55419
-#EXTINF:-1,AF: MTV Music 24 HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/55420
-#EXTINF:-1,AF: LTM TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/55421
-#EXTINF:-1,AF: Espace TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/55422
-#EXTINF:-1,AF: Equinoxe TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/55423
-#EXTINF:-1,AF: CR TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/55424
-#EXTINF:-1,AF: Canal 2 Movies
-http://client.more-itv.com:8080/57ijhg/e46ujj/55425
-#EXTINF:-1,AF: Canal 2
-http://client.more-itv.com:8080/57ijhg/e46ujj/55426
-#EXTINF:-1,AF: African News
-http://client.more-itv.com:8080/57ijhg/e46ujj/55428
-#EXTINF:-1,AF: Walf TV Senegal
-http://client.more-itv.com:8080/57ijhg/e46ujj/55429
-#EXTINF:-1,AF: Touba TV Senegal
-http://client.more-itv.com:8080/57ijhg/e46ujj/55430
-#EXTINF:-1,AF: TFM Religion Senegal
-http://client.more-itv.com:8080/57ijhg/e46ujj/55431
-#EXTINF:-1,AF: TFM Senegal
-http://client.more-itv.com:8080/57ijhg/e46ujj/55432
-#EXTINF:-1,AF: Series TV Senegal
-http://client.more-itv.com:8080/57ijhg/e46ujj/55433
-#EXTINF:-1,AF: SenTV Senegal
-http://client.more-itv.com:8080/57ijhg/e46ujj/55434
-#EXTINF:-1,AF: RTS2 Senegal
-http://client.more-itv.com:8080/57ijhg/e46ujj/55435
-#EXTINF:-1,AF: RTS1 Senegal
-http://client.more-itv.com:8080/57ijhg/e46ujj/55436
-#EXTINF:-1,AF: A2i TV Musique HD SN Senegal
-http://client.more-itv.com:8080/57ijhg/e46ujj/55437
-#EXTINF:-1,AF: Mourchid TV Senegal
-http://client.more-itv.com:8080/57ijhg/e46ujj/55438
-#EXTINF:-1,AF: LOBS TV Senegal
-http://client.more-itv.com:8080/57ijhg/e46ujj/55439
-#EXTINF:-1,AF: Lamp Fall TV Senegal
-http://client.more-itv.com:8080/57ijhg/e46ujj/55440
-#EXTINF:-1,AF: DTV Senegal
-http://client.more-itv.com:8080/57ijhg/e46ujj/55441
-#EXTINF:-1,AF: AlzharTouba TV Senegal
-http://client.more-itv.com:8080/57ijhg/e46ujj/55442
-#EXTINF:-1,AF: 7TV Senegal
-http://client.more-itv.com:8080/57ijhg/e46ujj/55443
-#EXTINF:-1,AF: 2sTV Senegal
-http://client.more-itv.com:8080/57ijhg/e46ujj/55444
-#EXTINF:-1,AF: RTS1
-http://client.more-itv.com:8080/57ijhg/e46ujj/55445
-#EXTINF:-1,### ۩ Afghanistan TV ۩ ###
-http://client.more-itv.com:8080/57ijhg/e46ujj/15679
-#EXTINF:-1,AF: ATN National
-http://client.more-itv.com:8080/57ijhg/e46ujj/15699
-#EXTINF:-1,AF: ATN USA
-http://client.more-itv.com:8080/57ijhg/e46ujj/15697
-#EXTINF:-1,AF: ATN Europe
-http://client.more-itv.com:8080/57ijhg/e46ujj/15703
-#EXTINF:-1,AF: ATN News
-http://client.more-itv.com:8080/57ijhg/e46ujj/15687
-#EXTINF:-1,AF: lemar TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/15680
-#EXTINF:-1,AF: Arezo TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/15681
-#EXTINF:-1,AF: Ayna TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/15683
-#EXTINF:-1,AF: Hewad tv
-http://client.more-itv.com:8080/57ijhg/e46ujj/15684
-#EXTINF:-1,AF: Afghanistan TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/15688
-#EXTINF:-1,AF: AMC
-http://client.more-itv.com:8080/57ijhg/e46ujj/15689
-#EXTINF:-1,AF: Bahar TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/15690
-#EXTINF:-1,AF: Shamshad
-http://client.more-itv.com:8080/57ijhg/e46ujj/15691
-#EXTINF:-1,AF: Kayhan TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/15694
-#EXTINF:-1,AF: 1TV Afghanistan
-http://client.more-itv.com:8080/57ijhg/e46ujj/15696
-#EXTINF:-1,AF: Payame Afghan TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/15698
-#EXTINF:-1,AF: Tuti
-http://client.more-itv.com:8080/57ijhg/e46ujj/15700
-#EXTINF:-1,AF: Watan HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/15701
-#EXTINF:-1,AF: Iman TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/15702
-#EXTINF:-1,AF: Tolo HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/15704
-#EXTINF:-1,AF: Zarin TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/15705
-#EXTINF:-1,AF: RTA News
-http://client.more-itv.com:8080/57ijhg/e46ujj/15706
-#EXTINF:-1,AF: Tolo News HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/55700
-#EXTINF:-1,AF: ASR TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/92838
-#EXTINF:-1,AF: Khurshid TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/92839
-#EXTINF:-1,AF: NOOR TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/92840
-#EXTINF:-1,AF: Omid TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/92841
-#EXTINF:-1,AF: Pamir TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/92842
-#EXTINF:-1,AF: RTA Sports HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/76426
 
 
